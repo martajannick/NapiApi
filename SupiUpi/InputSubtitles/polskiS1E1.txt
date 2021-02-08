@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="style_1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="style_2"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 40.00%" tts:origin="10.00% 50.00%" tts:textAlign="center" xml:id="region_1"/>
+<region tts:displayAlign="before" tts:extent="80.00% 40.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_2"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="60060000t" end="109280000t" region="region_1" xml:id="subtitle0"><span style="style_2">NETFLIX - SERIAL ORYGINALNY</span></p>
+<p begin="147230417t" end="174340834t" region="region_2" xml:id="subtitle1"><span style="style_1">Nadchodzą.</span></p>
+<p begin="214800000t" end="234400000t" region="region_1" xml:id="subtitle2"><span style="style_1">Atom po atomie...</span></p>
+<p begin="248580000t" end="271100000t" region="region_1" xml:id="subtitle3"><span style="style_1">Będą się kłębić wokół nas.</span></p>
+<p begin="287370000t" end="326580000t" region="region_1" xml:id="subtitle4"><span style="style_2">I odbiorą nam wszystko, czym jesteśmy.</span></p>
+<p begin="327410000t" end="347850000t" region="region_1" xml:id="subtitle5"><span style="style_2">Jest tylko jeden sposób,</span></p>
+<p begin="348681667t" end="368701667t" region="region_1" xml:id="subtitle6"><span style="style_2">by zmierzyć się z tym zagrożeniem.</span></p>
+<p begin="379130000t" end="392060000t" region="region_1" xml:id="subtitle7"><span style="style_2">Poprzez zjednoczenie</span></p>
+<p begin="392890000t" end="422090000t" region="region_1" xml:id="subtitle8"><span style="style_2">dwudziestu czterech</span><br/><span style="style_2">walczących ze sobą klanów,</span></p>
+<p begin="422920000t" end="452540000t" region="region_1" xml:id="subtitle9"><span style="style_2">będących częścią naszego imperium.</span></p>
+<p begin="465880000t" end="497160000t" region="region_1" xml:id="subtitle10"><span style="style_2">Zapomnieliśmy o Niezapomnianym.</span></p>
+<p begin="508010000t" end="538460000t" region="region_1" xml:id="subtitle11"><span style="style_2">Ostatnim, który złączył nasze plemiona.</span></p>
+<p begin="544293750t" end="561394167t" region="region_1" xml:id="subtitle12"><span style="style_2">Kahless.</span></p>
+<p begin="568070000t" end="595600000t" region="region_1" xml:id="subtitle13"><span style="style_2">Razem, połączeni jedną myślą,</span></p>
+<p begin="603940000t" end="631050000t" region="region_1" xml:id="subtitle14"><span style="style_2">pozostajemy Klingonami.</span></p>
+<p begin="661080000t" end="695700000t" region="region_1" xml:id="subtitle15"><span style="style_2">Dlatego dziś</span></p>
+<p begin="701950000t" end="727810000t" region="region_1" xml:id="subtitle16"><span style="style_2">rozpalamy nasz sygnał.</span></p>
+<p begin="739490000t" end="759090000t" region="region_1" xml:id="subtitle17"><span style="style_2">Aby zgromadzić</span></p>
+<p begin="759930000t" end="794540000t" region="region_1" xml:id="subtitle18"><span style="style_2">nasz lud.</span></p>
+<p begin="800380000t" end="824160000t" region="region_1" xml:id="subtitle19"><span style="style_2">Aby zebrać siły przeciwko tym,</span></p>
+<p begin="824990000t" end="861700000t" region="region_1" xml:id="subtitle20"><span style="style_2">których śmiertelne pozdrowienie brzmi:</span></p>
+<p begin="881300000t" end="913830000t" region="region_1" xml:id="subtitle21"><span style="style_2">„Przychodzimy w pokoju”.</span></p>
+<p begin="973470000t" end="1010180000t" region="region_1" xml:id="subtitle22"><span style="style_2">Przychodzimy w pokoju.</span><br/><span style="style_2">Czy nie o to chodzi w Gwiezdnej Flocie?</span></p>
+<p begin="1014763750t" end="1031864167t" region="region_1" xml:id="subtitle23"><span style="style_2">Hej, ja cię tego nauczyłam.</span></p>
+<p begin="1032698334t" end="1045210834t" region="region_1" xml:id="subtitle24"><span style="style_2">Nie ufasz mi, pani kapitan?</span></p>
+<p begin="1046045000t" end="1064396667t" region="region_1" xml:id="subtitle25"><span style="style_2">Ufam ci życiem, pani komandor Burnham.</span></p>
+<p begin="1065230000t" end="1089840000t" region="region_1" xml:id="subtitle26"><span style="style_2">Ale to nie zmienia faktu,</span><br/><span style="style_2">że się pogubiłaś.</span></p>
+<p begin="1101517084t" end="1109858750t" region="region_1" xml:id="subtitle27"><span style="style_2">Bardzo.</span></p>
+<p begin="1122370000t" end="1140720000t" region="region_1" xml:id="subtitle28"><span style="style_2">Wtedy obie byłybyśmy zagubione.</span></p>
+<p begin="1151570000t" end="1179930000t" region="region_1" xml:id="subtitle29"><span style="style_2">Ile mamy czasu, zanim uderzy w nas burza?</span></p>
+<p begin="1180762917t" end="1209958750t" region="region_1" xml:id="subtitle30"><span style="style_2">Szacuję, że jedną godzinę,</span><br/><span style="style_2">17 minut i 22 sekundy.</span></p>
+<p begin="1220385834t" end="1245410834t" region="region_1" xml:id="subtitle31"><span style="style_2">Dlatego zadbałam, żebyśmy się nie zgubiły.</span></p>
+<p begin="1258340000t" end="1281700000t" region="region_1" xml:id="subtitle32"><span style="style_2">Według mapy studnia jest tam.</span></p>
+<p begin="1313812500t" end="1334666667t" region="region_1" xml:id="subtitle33"><span style="style_2">Ta susza będzie trwać przez 89 lat.</span></p>
+<p begin="1338840000t" end="1367200000t" region="region_1" xml:id="subtitle34"><span style="style_2">Krepuskulanom grozi wymarcie.</span></p>
+<p begin="1374290000t" end="1386800000t" region="region_1" xml:id="subtitle35"><span style="style_2">Widzisz te kokony?</span></p>
+<p begin="1390970000t" end="1405570000t" region="region_1" xml:id="subtitle36"><span style="style_2">To ich potomstwo.</span></p>
+<p begin="1406410000t" end="1440610000t" region="region_1" xml:id="subtitle37"><span style="style_2">Przetrwali tu ponad tysiąc lat, Michael.</span></p>
+<p begin="1441440000t" end="1476890000t" region="region_1" xml:id="subtitle38"><span style="style_2">Jeśli nic nie zrobimy,</span><br/><span style="style_2">to nie przetrwają tysiąca godzin.</span></p>
+<p begin="1477730000t" end="1517770000t" region="region_1" xml:id="subtitle39"><span style="style_2">Promieniowanie po wypadku na meteorycie</span><br/><span style="style_2">osuszyło ich wody gruntowne.</span></p>
+<p begin="1518600000t" end="1560310000t" region="region_1" xml:id="subtitle40"><span style="style_2">Jeśli się wydostaniemy bez kontaktu,</span><br/><span style="style_2">zachowamy Pierwszą Dyrektywę.</span></p>
+<p begin="1561140000t" end="1582830000t" region="region_1" xml:id="subtitle41"><span style="style_2">I tam jest studnia.</span></p>
+<p begin="1589920000t" end="1607440000t" region="region_1" xml:id="subtitle42"><span style="style_2">Miałaś rację.</span></p>
+<p begin="1614950000t" end="1627880000t" region="region_1" xml:id="subtitle43"><span style="style_2">Mała twa wiara.</span></p>
+<p begin="1632050000t" end="1643730000t" region="region_1" xml:id="subtitle44"><span style="style_2">Nigdy nie wątpiłam.</span></p>
+<p begin="1655410000t" end="1675430000t" region="region_1" xml:id="subtitle45"><span style="style_2">Jak mogę przebić się przez skałę?</span></p>
+<p begin="1676260000t" end="1705870000t" region="region_1" xml:id="subtitle46"><span style="style_2">Pole wybuchu 0,7 sekundy, poziom 13,5.</span></p>
+<p begin="1995330000t" end="2022860000t" region="region_1" xml:id="subtitle47"><span style="style_2">Georgiou do </span><span style="style_1">Shenzhou,</span><br/><span style="style_2">dwójka do teleportacji.</span></p>
+<p begin="2065400000t" end="2107110000t" region="region_1" xml:id="subtitle48"><span style="style_2">Burza zbliża się szybciej, niż myślałam.</span><br/><span style="style_2">Nie wykryją naszych sygnatur.</span></p>
+<p begin="2107940000t" end="2151740000t" region="region_1" xml:id="subtitle49"><span style="style_2">Jeśli nie uda się nam skontaktować</span><br/><span style="style_2">z komandorem Saru, utkniemy tu.</span></p>
+<p begin="2152570000t" end="2162580000t" region="region_1" xml:id="subtitle50"><span style="style_2">Przejdźmy się.</span></p>
+<p begin="2489990000t" end="2515430000t" region="region_1" xml:id="subtitle51"><span style="style_2">Podążaj za mną, Michael. Równe linie.</span></p>
+<p begin="2520440000t" end="2561310000t" region="region_1" xml:id="subtitle52"><span style="style_2">- Dlaczego? Dokąd idziemy?</span><br/><span style="style_2">- Twoja kolej zaufać, pierwszy.</span></p>
+<p begin="2564650000t" end="2579660000t" region="region_1" xml:id="subtitle53"><span style="style_2">Naprawdę się zgubiłyśmy.</span></p>
+<p begin="2585090000t" end="2610530000t" region="region_1" xml:id="subtitle54"><span style="style_2">Jesteśmy zbyt małe, żeby nas zauważyć.</span></p>
+<p begin="2611360000t" end="2628040000t" region="region_1" xml:id="subtitle55"><span style="style_2">A bez gwiazdy nie ustalimy kursu.</span></p>
+<p begin="2640970000t" end="2661830000t" region="region_1" xml:id="subtitle56"><span style="style_2">Czy to rozsądne oddalać się od wioski?</span></p>
+<p begin="2662660000t" end="2702290000t" region="region_1" xml:id="subtitle57"><span style="style_2">Ciężko sobie wyobrazić, że byłaś</span><br/><span style="style_2">moją podwładną przez siedem lat.</span></p>
+<p begin="2707710000t" end="2745660000t" region="region_1" xml:id="subtitle58"><span style="style_2">Czas porozmawiać</span><br/><span style="style_2">o twoim własnym dowództwie.</span></p>
+<p begin="2783614167t" end="2801965834t" region="region_1" xml:id="subtitle59"><span style="style_2">Jestem wdzięczna, pani kapitan.</span></p>
+<p begin="2824490000t" end="2856610000t" region="region_1" xml:id="subtitle60"><span style="style_2">Ale byłabym bardziej,</span><br/><span style="style_2">gdybyśmy miały szansę</span></p>
+<p begin="2857440000t" end="2873710000t" region="region_1" xml:id="subtitle61"><span style="style_2">powrócić kiedyś na statek.</span></p>
+<p begin="2878290000t" end="2895810000t" region="region_1" xml:id="subtitle62"><span style="style_2">Idź dalej, Michael.</span></p>
+<p begin="2900820000t" end="2932930000t" region="region_1" xml:id="subtitle63"><span style="style_2">Co byś zrobiła,</span><br/><span style="style_2">gdybyś utknęła tu na 89 lat?</span></p>
+<p begin="2933770000t" end="2962130000t" region="region_1" xml:id="subtitle64"><span style="style_2">To prawdopodobne,</span><br/><span style="style_2">chyba że zginiemy na pustyni.</span></p>
+<p begin="2962960000t" end="2977980000t" region="region_1" xml:id="subtitle65"><span style="style_2">Ale gdybyś żyła.</span></p>
+<p begin="2988819167t" end="3020934584t" region="region_1" xml:id="subtitle66"><span style="style_2">Jako ksenoantropolog</span><br/><span style="style_2">nawiązałabym kontakt z tubylcami,</span></p>
+<p begin="3021770000t" end="3052220000t" region="region_1" xml:id="subtitle67"><span style="style_2">nauczyła się ich kultury</span><br/><span style="style_2">i próbowała się dopasować.</span></p>
+<p begin="3060560000t" end="3095600000t" region="region_1" xml:id="subtitle68"><span style="style_2">A ty? Co byś zrobiła,</span><br/><span style="style_2">gdybyś utknęła tu na 89 lat?</span></p>
+<p begin="3096430000t" end="3115200000t" region="region_1" xml:id="subtitle69"><span style="style_2">Proste. Uciekłabym.</span></p>
+<p begin="3129380000t" end="3143140000t" region="region_1" xml:id="subtitle70"><span style="style_2">To nasze ślady.</span></p>
+<p begin="3148570000t" end="3181510000t" region="region_1" xml:id="subtitle71"><span style="style_2">- Poprowadziłaś nas w koło.</span><br/><span style="style_2">- To nie do końca koło.</span></p>
+<p begin="3388810000t" end="3400900000t" region="region_1" xml:id="subtitle72"><span style="style_2">Jak nas znaleźli?</span></p>
+<p begin="3410490000t" end="3422590000t" region="region_1" xml:id="subtitle73"><span style="style_2">Ustawiłam gwiazdę.</span></p>
+<p begin="4619197917t" end="4652564584t" region="region_1" xml:id="subtitle74"><span style="style_1">Dziennik pokładowy pierwszego oficera,</span><br/><span style="style_1">data gwiezdna 1207.3.</span></p>
+<p begin="4653400000t" end="4695950000t" region="region_1" xml:id="subtitle75"><span style="style_1">Na Ziemi jest</span><br/><span style="style_1">11 maja 2256 roku, niedziela.</span></p>
+<p begin="4713458750t" end="4726805417t" region="region_1" xml:id="subtitle76"><span style="style_1">Załoga </span><span style="style_2">U.S.S. Shenzhou</span></p>
+<p begin="4727639584t" end="4748910834t" region="region_1" xml:id="subtitle77"><span style="style_1">została wezwana na skraj</span><br/><span style="style_1">przestrzeni Federacji,</span></p>
+<p begin="4749745000t" end="4787282500t" region="region_1" xml:id="subtitle78"><span style="style_1">aby zbadać zniszczenia jednego</span><br/><span style="style_1">z międzygwiezdnych przekaźników.</span></p>
+<p begin="4788533750t" end="4814810000t" region="region_1" xml:id="subtitle79"><span style="style_1">Uszkodzenia na kadłubie</span><br/><span style="style_1">na nic nie wskazują.</span></p>
+<p begin="4816900000t" end="4831920000t" region="region_1" xml:id="subtitle80"><span style="style_1">Czy to asteroida?</span></p>
+<p begin="4833580000t" end="4870290000t" region="region_1" xml:id="subtitle81"><span style="style_1">Czy został zniszczony celowo,</span><br/><span style="style_1">by ograniczyć łączność Floty?</span></p>
+<p begin="4876540000t" end="4892810000t" region="region_1" xml:id="subtitle82"><span style="style_1">A jeśli tak, kto to zrobił?</span></p>
+<p begin="4906160000t" end="4935770000t" region="region_1" xml:id="subtitle83"><span style="style_1">Pomimo ryzyka naszej misji</span><br/><span style="style_1">jestem dobrej myśli.</span></p>
+<p begin="4940360000t" end="4966220000t" region="region_1" xml:id="subtitle84"><span style="style_1">Ciężko nie być w obliczu takiego piękna.</span></p>
+<p begin="4974970000t" end="5000830000t" region="region_1" xml:id="subtitle85"><span style="style_1">W tym przypadku:</span><br/><span style="style_1">układu podwójnego gwiazd.</span></p>
+<p begin="5006670000t" end="5022520000t" region="region_1" xml:id="subtitle86"><span style="style_1">Pomiędzy dwoma słońcami</span></p>
+<p begin="5023360000t" end="5053390000t" region="region_1" xml:id="subtitle87"><span style="style_1">lód, pył i gazy zderzają się,</span><br/><span style="style_1">formując planety,</span></p>
+<p begin="5054220000t" end="5076740000t" region="region_1" xml:id="subtitle88"><span style="style_1">które przyszłe generacje nazwą domem.</span></p>
+<p begin="5081750000t" end="5126790000t" region="region_1" xml:id="subtitle89"><span style="style_1">Przypomnienie, że całe życie</span><br/><span style="style_1">rodzi się z chaosu i zniszczenia.</span></p>
+<p begin="5131800000t" end="5143890000t" region="region_1" xml:id="subtitle90"><span style="style_2">W oparciu o odczyty</span></p>
+<p begin="5144722917t" end="5179340834t" region="region_1" xml:id="subtitle91"><span style="style_2">wydaje mi się, że przekaźnik</span><br/><span style="style_2">nie został uszkodzony naturalnie.</span></p>
+<p begin="5180600000t" end="5196860000t" region="region_1" xml:id="subtitle92"><span style="style_2">Nie podoba mi się to.</span></p>
+<p begin="5200200000t" end="5210630000t" region="region_1" xml:id="subtitle93"><span style="style_2">Szukaj dalej.</span></p>
+<p begin="5214380000t" end="5240240000t" region="region_1" xml:id="subtitle94"><span style="style_2">Metaforyczny komentarz.</span><br/><span style="style_2">Wyrażam swoje zaniepokojenie.</span></p>
+<p begin="5241070000t" end="5265680000t" region="region_1" xml:id="subtitle95"><span style="style_2">Dokończ skan. Wyraź fakty.</span></p>
+<p begin="5272770000t" end="5287370000t" region="region_1" xml:id="subtitle96"><span style="style_2">Mostek jest pański, panie Saru.</span></p>
+<p begin="5296960000t" end="5310730000t" region="region_1" xml:id="subtitle97"><span style="style_2">Tak jest.</span></p>
+<p begin="5338250000t" end="5347010000t" region="region_1" xml:id="subtitle98"><span style="style_2">Tak, pierwszy?</span></p>
+<p begin="5351600000t" end="5374120000t" region="region_1" xml:id="subtitle99"><span style="style_2">Główny oficer naukowy jest zmartwiony.</span></p>
+<p begin="5374960000t" end="5407490000t" region="region_1" xml:id="subtitle100"><span style="style_2">Coś odgryzło kawałek przekaźnika.</span><br/><span style="style_2">Saru myśli, że złośliwie.</span></p>
+<p begin="5408320000t" end="5436270000t" region="region_1" xml:id="subtitle101"><span style="style_2">Saru jest Kelpienem.</span><br/><span style="style_2">Myśli, że wszystko jest złośliwe.</span></p>
+<p begin="5444190000t" end="5470890000t" region="region_1" xml:id="subtitle102"><span style="style_2">A ty, jak sądzisz? Co to może być?</span></p>
+<p begin="5471720000t" end="5495080000t" region="region_1" xml:id="subtitle103"><span style="style_2">Brak przesłanek, że to istota myśląca.</span></p>
+<p begin="5503000000t" end="5529280000t" region="region_1" xml:id="subtitle104"><span style="style_2">- Ale?</span><br/><span style="style_2">- Higiena techniczna Gwiezdnej Floty</span></p>
+<p begin="5530110000t" end="5539710000t" region="region_1" xml:id="subtitle105"><span style="style_2">jest wzorowa.</span></p>
+<p begin="5540960000t" end="5576410000t" region="region_1" xml:id="subtitle106"><span style="style_2">Jeśli psuje się przekaźnik,</span><br/><span style="style_2">Federacja przysyła statek naprawczy.</span></p>
+<p begin="5580580000t" end="5625630000t" region="region_1" xml:id="subtitle107"><span style="style_2">- Ktoś próbuje ściągnąć naszą uwagę?</span><br/><span style="style_2">- Jeśli tak, to im się udało.</span></p>
+<p begin="5649820000t" end="5669420000t" region="region_1" xml:id="subtitle108"><span style="style_2">Poruczniku, co mamy?</span></p>
+<p begin="5683600000t" end="5711130000t" region="region_1" xml:id="subtitle109"><span style="style_2">Postanowiłem zachować</span><br/><span style="style_2">jak największy dystans do skanu,</span></p>
+<p begin="5711960000t" end="5731560000t" region="region_1" xml:id="subtitle110"><span style="style_2">gdyby groziło nam</span><br/><span style="style_2">jakieś niebezpieczeństwo.</span></p>
+<p begin="5732400000t" end="5757840000t" region="region_1" xml:id="subtitle111"><span style="style_2">Pierwszy oficer powiedziała,</span><br/><span style="style_2">że podejrzewasz coś złego.</span></p>
+<p begin="5759930000t" end="5797050000t" region="region_1" xml:id="subtitle112"><span style="style_2">Pomimo ciągłego odrzucania moich pomysłów</span><br/><span style="style_2">przez pierwszego oficera.</span></p>
+<p begin="5797880000t" end="5828750000t" region="region_1" xml:id="subtitle113"><span style="style_2">- Najwyraźniej się z tobą zgadza.</span><br/><span style="style_2">- Naprawdę?</span></p>
+<p begin="5829580000t" end="5839170000t" region="region_1" xml:id="subtitle114"><span style="style_2">Też jestem w szoku.</span></p>
+<p begin="5843337500t" end="5873784584t" region="region_1" xml:id="subtitle115"><span style="style_2">Chorąży Connor. Zgoda pomiędzy</span><br/><span style="style_2">starszymi oficerami.</span></p>
+<p begin="5874620000t" end="5897150000t" region="region_1" xml:id="subtitle116"><span style="style_2">- Zanotuj czas i miejsce.</span><br/><span style="style_2">- Tak jest.</span></p>
+<p begin="5902570000t" end="5922590000t" region="region_1" xml:id="subtitle117"><span style="style_2">Czy ten poziom sarkazmu jest konieczny?</span></p>
+<p begin="5925090000t" end="5950120000t" region="region_1" xml:id="subtitle118"><span style="style_2">Nie jest konieczny. Ale lubię to.</span></p>
+<p begin="5959710000t" end="5979310000t" region="region_1" xml:id="subtitle119"><span style="style_2">Jest tam coś jeszcze.</span></p>
+<p begin="5980150000t" end="6001420000t" region="region_1" xml:id="subtitle120"><span style="style_2">- Co tam masz?</span><br/><span style="style_2">- Rekalibracja.</span></p>
+<p begin="6039370000t" end="6068990000t" region="region_1" xml:id="subtitle121"><span style="style_2">Coś odbija aktywne skany.</span><br/><span style="style_2">Trudno zlokalizować źródło.</span></p>
+<p begin="6069820000t" end="6101940000t" region="region_1" xml:id="subtitle122"><span style="style_2">Coś tam jest,</span><br/><span style="style_2">ale nikt nie wie, co ani gdzie.</span></p>
+<p begin="6109860000t" end="6123210000t" region="region_1" xml:id="subtitle123"><span style="style_2">Mam to.</span></p>
+<p begin="6148650000t" end="6178680000t" region="region_1" xml:id="subtitle124"><span style="style_2">- Nie. Rekalibracja.</span><br/><span style="style_2">- Lada moment, panie Saru.</span></p>
+<p begin="6179510000t" end="6187850000t" region="region_1" xml:id="subtitle125"><span style="style_2">Mam to.</span></p>
+<p begin="6211630000t" end="6219970000t" region="region_1" xml:id="subtitle126"><span style="style_2">Powiększenie.</span></p>
+<p begin="6224970000t" end="6242080000t" region="region_1" xml:id="subtitle127"><span style="style_2">Czy to uszkodziło przekaźnik?</span></p>
+<p begin="6247910000t" end="6259590000t" region="region_1" xml:id="subtitle128"><span style="style_2">Na co patrzę?</span></p>
+<p begin="6277110000t" end="6293380000t" region="region_1" xml:id="subtitle129"><span style="style_2">Obiekt nieznanego pochodzenia.</span></p>
+<p begin="6299630000t" end="6333000000t" region="region_1" xml:id="subtitle130"><span style="style_2">- Poproszę o szczegóły.</span><br/><span style="style_2">- Nie mogę wyostrzyć obrazu.</span></p>
+<p begin="6333830000t" end="6342180000t" region="region_1" xml:id="subtitle131"><span style="style_2">Pierwszy?</span></p>
+<p begin="6354690000t" end="6394310000t" region="region_2" xml:id="subtitle132"><span style="style_2">Odległość 2000 kilometrów,</span><br/><span style="style_2">kierunek 358, kąt 269.</span></p>
+<p begin="6395150000t" end="6427680000t" region="region_1" xml:id="subtitle133"><span style="style_2">Około 150 m długości,</span><br/><span style="style_2">znajduje się w dysku akrecyjnym.</span></p>
+<p begin="6428510000t" end="6460210000t" region="region_1" xml:id="subtitle134"><span style="style_2">Prawie pod nami.</span><br/><span style="style_2">To martwa strefa dla czujników.</span></p>
+<p begin="6468130000t" end="6501500000t" region="region_1" xml:id="subtitle135"><span style="style_2">Jakieś pole rozpraszające</span><br/><span style="style_2">utrudnia przetworzenie obrazu.</span></p>
+<p begin="6502340000t" end="6521940000t" region="region_1" xml:id="subtitle136"><span style="style_2">Jako oficer naukowy</span></p>
+<p begin="6526530000t" end="6559890000t" region="region_1" xml:id="subtitle137"><span style="style_2">mogę zapewnić bardziej szczegółową</span><br/><span style="style_2">i głębszą analizę</span></p>
+<p begin="6560730000t" end="6592430000t" region="region_1" xml:id="subtitle138"><span style="style_2">niż odczytanie danych z monitora.</span><br/><span style="style_2">Ale...</span></p>
+<p begin="6593260000t" end="6622870000t" region="region_1" xml:id="subtitle139"><span style="style_2">z uwagi na to, że zakłóca</span><br/><span style="style_2">procesory optyczne,</span></p>
+<p begin="6623710000t" end="6642890000t" region="region_1" xml:id="subtitle140"><span style="style_2">jak to zobaczyć?</span></p>
+<p begin="6690020000t" end="6701700000t" region="region_1" xml:id="subtitle141"><span style="style_2">Jakieś pomysły?</span></p>
+<p begin="6712122084t" end="6745071667t" region="region_1" xml:id="subtitle142"><span style="style_2">Wolałabym nie spekulować</span><br/><span style="style_2">przy tak skąpej ilości danych.</span></p>
+<p begin="6749250000t" end="6757590000t" region="region_1" xml:id="subtitle143"><span style="style_2">A ja tak.</span></p>
+<p begin="6760090000t" end="6768440000t" region="region_1" xml:id="subtitle144"><span style="style_2">Czai się.</span></p>
+<p begin="6772610000t" end="6796380000t" region="region_1" xml:id="subtitle145"><span style="style_2">Pole rozpraszające sugeruje zamiary.</span></p>
+<p begin="6797210000t" end="6827240000t" region="region_1" xml:id="subtitle146"><span style="style_2">Widzimy coś, czego nie rozumiemy,</span><br/><span style="style_2">i od razu oceniamy?</span></p>
+<p begin="6828080000t" end="6836840000t" region="region_1" xml:id="subtitle147"><span style="style_2">Może się zgubił.</span></p>
+<p begin="6837664167t" end="6871030834t" region="region_1" xml:id="subtitle148"><span style="style_2">- Może boi się pokazać w całej okazałości.</span><br/><span style="style_2">- Ukrywa się?</span></p>
+<p begin="6874370000t" end="6890220000t" region="region_1" xml:id="subtitle149"><span style="style_2">Więc może chce być znaleziony.</span></p>
+<p begin="6905240000t" end="6918590000t" region="region_1" xml:id="subtitle150"><span style="style_2">A my spekulujemy.</span></p>
+<p begin="6932770000t" end="6974470000t" region="region_1" xml:id="subtitle151"><span style="style_2">Rekomendowałbym</span><br/><span style="style_2">pozostawienie tego w spokoju.</span></p>
+<p begin="6979480000t" end="6998250000t" region="region_1" xml:id="subtitle152"><span style="style_2">Nie wiem, czy mamy wybór.</span></p>
+<p begin="7003250000t" end="7015770000t" region="region_1" xml:id="subtitle153"><span style="style_2">Nie możemy ustalić wzorca.</span></p>
+<p begin="7016600000t" end="7048720000t" region="region_1" xml:id="subtitle154"><span style="style_2">Nie mamy promu zdolnego</span><br/><span style="style_2">do manewrowania w pierścieniu.</span></p>
+<p begin="7049550000t" end="7083750000t" region="region_1" xml:id="subtitle155"><span style="style_2">Ja pójdę.</span><br/><span style="style_2">Wezmę plecak odrzutowy.</span></p>
+<p begin="7084580000t" end="7112950000t" region="region_1" xml:id="subtitle156"><span style="style_2">Przy promieniowaniu</span><br/><span style="style_2">pochodzącym od gwiazd</span></p>
+<p begin="7113780000t" end="7152570000t" region="region_1" xml:id="subtitle157"><span style="style_2">będzie miała 20 minut,</span><br/><span style="style_2">zanim jej DNA rozwinie się jak makaron.</span></p>
+<p begin="7153400000t" end="7163830000t" region="region_1" xml:id="subtitle158"><span style="style_2">„Jak makaron”.</span></p>
+<p begin="7164660000t" end="7188860000t" region="region_1" xml:id="subtitle159"><span style="style_2">Wrócę w 19. To tylko manewr rozpoznawczy.</span></p>
+<p begin="7189690000t" end="7216800000t" region="region_1" xml:id="subtitle160"><span style="style_2">To marnowanie zasobów. Co na tym zyskamy?</span></p>
+<p begin="7217630000t" end="7251840000t" region="region_1" xml:id="subtitle161"><span style="style_2">Jeśli wszystkiego się boisz,</span><br/><span style="style_2">niczego się nie uczysz.</span></p>
+<p begin="7252670000t" end="7278950000t" region="region_1" xml:id="subtitle162"><span style="style_2">Nie ma możliwości odkrywania, eksploracji.</span></p>
+<p begin="7279780000t" end="7313150000t" region="region_1" xml:id="subtitle163"><span style="style_2">Myślałem, że sprawdzamy przekaźnik.</span></p>
+<p begin="7313980000t" end="7326910000t" region="region_1" xml:id="subtitle164"><span style="style_2">Oboje macie rację.</span></p>
+<p begin="7335250000t" end="7356520000t" region="region_1" xml:id="subtitle165"><span style="style_2">- Saru, idź z nią.</span><br/><span style="style_2">- Pani kapitan?</span></p>
+<p begin="7357360000t" end="7388640000t" region="region_1" xml:id="subtitle166"><span style="style_2">Ograniczmy zmienne do minimum.</span><br/><span style="style_2">Nie chcę narazić kolegi na ryzyko.</span></p>
+<p begin="7389465417t" end="7402812084t" region="region_1" xml:id="subtitle167"><span style="style_2">A pan, panie Saru?</span></p>
+<p begin="7403646250t" end="7424500417t" region="region_1" xml:id="subtitle168"><span style="style_2">Woli pan uniknąć ryzyka?</span></p>
+<p begin="7428260000t" end="7445360000t" region="region_1" xml:id="subtitle169"><span style="style_2">Zawsze.</span></p>
+<p begin="7466220000t" end="7504170000t" region="region_1" xml:id="subtitle170"><span style="style_2">Zdajesz sobie sprawę,</span><br/><span style="style_2">że gdy będziesz w polu rozpraszającym,</span></p>
+<p begin="7505010000t" end="7527530000t" region="region_1" xml:id="subtitle171"><span style="style_2">możesz zostać odcięta od komunikacji.</span></p>
+<p begin="7528360000t" end="7546710000t" region="region_1" xml:id="subtitle172"><span style="style_2">Przebyliśmy długą drogę.</span></p>
+<p begin="7553800000t" end="7590510000t" region="region_1" xml:id="subtitle173"><span style="style_2">Nierozsądnie byłoby</span><br/><span style="style_2">pozostawiać to nierozpoznanym.</span></p>
+<p begin="7599270000t" end="7611780000t" region="region_1" xml:id="subtitle174"><span style="style_2">Manewr rozpoznawczy.</span></p>
+<p begin="7636378750t" end="7649308334t" region="region_1" xml:id="subtitle175"><span style="style_2">Manewr rozpoznawczy.</span></p>
+<p begin="7664750000t" end="7693110000t" region="region_1" xml:id="subtitle176"><span style="style_1">Sekwencja dekompresji rozpoczęta.</span></p>
+<p begin="7717720000t" end="7739410000t" region="region_1" xml:id="subtitle177"><span style="style_1">Komandor Burnham</span><span style="style_2">,</span><br/><span style="style_1">tu chorąży Danby Connor.</span></p>
+<p begin="7744830000t" end="7775690000t" region="region_1" xml:id="subtitle178"><span style="style_2">W imieniu kapitan Georgiou</span><br/><span style="style_2">i załogi </span><span style="style_1">U.S.S. Shenzhou</span></p>
+<p begin="7776530000t" end="7799050000t" region="region_1" xml:id="subtitle179"><span style="style_2">witamy na pokładzie lotu 819</span></p>
+<p begin="7799880000t" end="7823240000t" region="region_1" xml:id="subtitle180"><span style="style_2">do nieznanego obiektu.</span></p>
+<p begin="7824070000t" end="7853690000t" region="region_1" xml:id="subtitle181"><span style="style_1">Temperatura na zewnątrz wynosi</span><br/><span style="style_1">minus 260 stopni Celsjusza.</span></p>
+<p begin="7854520000t" end="7884970000t" region="region_1" xml:id="subtitle182"><span style="style_1">Mogą pojawić się odłamki,</span><br/><span style="style_1">ale przewidujemy spokojny lot.</span></p>
+<p begin="7969640000t" end="7984230000t" region="region_1" xml:id="subtitle183"><span style="style_2">Tu komandor Burnham.</span></p>
+<p begin="7990490000t" end="8026780000t" region="region_1" xml:id="subtitle184"><span style="style_2">Rozpoczynam rekonesans</span><br/><span style="style_2">nieznanego obiektu.</span></p>
+<p begin="8029280000t" end="8048050000t" region="region_1" xml:id="subtitle185"><span style="style_2">Włączono zbieranie danych.</span></p>
+<p begin="8056390000t" end="8068490000t" region="region_1" xml:id="subtitle186"><span style="style_2">Wszystko gotowe.</span></p>
+<p begin="8069320000t" end="8100600000t" region="region_1" xml:id="subtitle187"><span style="style_2">Zestrajamy częstotliwość</span><br/><span style="style_2">ze skafandrem komandor Burnham.</span></p>
+<p begin="8106020000t" end="8127710000t" region="region_1" xml:id="subtitle188"><span style="style_2">Kanał otwarty, gotowy do transmisji.</span></p>
+<p begin="8128550000t" end="8166080000t" region="region_1" xml:id="subtitle189"><span style="style_2">Potwierdzam sześciosekundowy odrzut</span><br/><span style="style_2">w celu dostosowania spodka.</span></p>
+<p begin="8180672500t" end="8204863334t" region="region_1" xml:id="subtitle190"><span style="style_1">Kontrola układów przed startem rozpoczęta.</span></p>
+<p begin="8205697500t" end="8219878334t" region="region_1" xml:id="subtitle191"><span style="style_1">Podtrzymywanie życia: w normie.</span></p>
+<p begin="8220720000t" end="8247410000t" region="region_1" xml:id="subtitle192"><span style="style_1">Nasycenie tlenowo-azotowe: w normie.</span></p>
+<p begin="8251170000t" end="8272440000t" region="region_1" xml:id="subtitle193"><span style="style_1">Ciśnienie powietrza i przepływ: w normie.</span></p>
+<p begin="8273270000t" end="8294130000t" region="region_1" xml:id="subtitle194"><span style="style_1">Moduł komunikacyjny: aktywny.</span></p>
+<p begin="8350430000t" end="8385470000t" region="region_1" xml:id="subtitle195"><span style="style_1">Filtry na poziome 0,01 procent nasycenia.</span></p>
+<p begin="8430100000t" end="8446780000t" region="region_1" xml:id="subtitle196"><span style="style_1">Kontrola zakończona.</span></p>
+<p begin="8533950000t" end="8555640000t" region="region_1" xml:id="subtitle197"><span style="style_2">Komputerze, uruchom zapłon.</span></p>
+<p begin="8561480000t" end="8582330000t" region="region_1" xml:id="subtitle198"><span style="style_1">Dziesięć sekund do zapłonu odrzutu.</span></p>
+<p begin="8584420000t" end="8610280000t" region="region_1" xml:id="subtitle199"><span style="style_1">Dziesięć, dziewięć, osiem,</span></p>
+<p begin="8615700000t" end="8638220000t" region="region_1" xml:id="subtitle200"><span style="style_1">siedem, sześć, pięć,</span></p>
+<p begin="8646980000t" end="8681600000t" region="region_1" xml:id="subtitle201"><span style="style_1">cztery, trzy, dwa, jeden...</span></p>
+<p begin="8880130000t" end="8890970000t" region="region_1" xml:id="subtitle202"><span style="style_2">Mamy skan ciała.</span></p>
+<p begin="8891810000t" end="8915580000t" region="region_1" xml:id="subtitle203"><span style="style_2">Puls 79 i rośnie, ciśnienie 130 na 70.</span></p>
+<p begin="8922670000t" end="8946450000t" region="region_1" xml:id="subtitle204"><span style="style_2">- Podniesione.</span><br/><span style="style_2">- Dobrze się bawi.</span></p>
+<p begin="8947280000t" end="8964800000t" region="region_1" xml:id="subtitle205"><span style="style_2">Zbliża się do odłamków.</span></p>
+<p begin="8969390000t" end="8981900000t" region="region_1" xml:id="subtitle206"><span style="style_2">Rozumiem.</span></p>
+<p begin="8982730000t" end="8999830000t" region="region_1" xml:id="subtitle207"><span style="style_2">Michael, pamiętaj o czasie.</span></p>
+<p begin="9000670000t" end="9032370000t" region="region_1" xml:id="subtitle208"><span style="style_1">- Dziewiętnaście minut, i tyle.</span><br/><span style="style_2">- Tak jest.</span></p>
+<p begin="9039460000t" end="9048630000t" region="region_1" xml:id="subtitle209"><span style="style_1">Wiem o tym.</span></p>
+<p begin="9060730000t" end="9080330000t" region="region_1" xml:id="subtitle210"><span style="style_2">- Wzmocnić sygnał.</span><br/><span style="style_2">- Nie można.</span></p>
+<p begin="9082000000t" end="9100350000t" region="region_1" xml:id="subtitle211"><span style="style_2">Pole rozpraszające zakłóca komunikację.</span></p>
+<p begin="9106610000t" end="9126210000t" region="region_1" xml:id="subtitle212"><span style="style_2">Na zegarze: 17 minut i 30 sekund.</span></p>
+<p begin="9127040000t" end="9147060000t" region="region_1" xml:id="subtitle213"><span style="style_2">Zakłócenia obniżają rozdzielczość.</span></p>
+<p begin="9147900000t" end="9170420000t" region="region_1" xml:id="subtitle214"><span style="style_2">Przekierowanie mocy</span><br/><span style="style_2">do anteny podprzestrzennej.</span></p>
+<p begin="9243400834t" end="9272179584t" region="region_1" xml:id="subtitle215"><span style="style_1">- Shenzhou, </span><span style="style_2">słyszycie mnie?</span><br/><span style="style_2"/><span style="style_1">- Odległość: 1000 kilometrów.</span></p>
+<p begin="9273020000t" end="9303890000t" region="region_1" xml:id="subtitle216"><span style="style_1">- Shenzhou, </span><span style="style_2">słyszycie mnie?</span><br/><span style="style_1">- Poprawa kursu.</span></p>
+<p begin="9474890000t" end="9484070000t" region="region_1" xml:id="subtitle217"><span style="style_2">Witaj.</span></p>
+<p begin="9502000000t" end="9521190000t" region="region_1" xml:id="subtitle218"><span style="style_1">Shenzhou,</span><span style="style_2"> widzicie to?</span></p>
+<p begin="9536620000t" end="9558310000t" region="region_1" xml:id="subtitle219"><span style="style_2">Michael, słyszysz mnie? Potwierdź.</span></p>
+<p begin="9569570000t" end="9600430000t" region="region_1" xml:id="subtitle220"><span style="style_2">Słyszysz mnie? Potwierdź.</span></p>
+<p begin="9613770834t" end="9629202917t" region="region_1" xml:id="subtitle221"><span style="style_1">Shenzhou, </span><span style="style_2">słyszycie mnie?</span></p>
+<p begin="9655070000t" end="9672590000t" region="region_1" xml:id="subtitle222"><span style="style_2">Jednostka zbioru danych, jesteście?</span></p>
+<p begin="9673413750t" end="9696353334t" region="region_1" xml:id="subtitle223"><span style="style_1">- Połączono wewnętrzny komputer.</span><br/><span style="style_2">- Okej.</span></p>
+<p begin="9703870000t" end="9728480000t" region="region_1" xml:id="subtitle224"><span style="style_2">- Czas misji?</span><br/><span style="style_1">- Dwanaście minut, 58 sekund.</span></p>
+<p begin="9756420000t" end="9772690000t" region="region_1" xml:id="subtitle225"><span style="style_2">Mam czas, by rzucić okiem.</span></p>
+<p begin="9781030000t" end="9807720000t" region="region_1" xml:id="subtitle226"><span style="style_2">Nawet z tej odległości widać,</span><br/><span style="style_2">że to nie odłamek.</span></p>
+<p begin="9811900000t" end="9843590000t" region="region_1" xml:id="subtitle227"><span style="style_2">Dwanaście minut i 48 sekund</span><br/><span style="style_2">do maksymalnej dawki promieniowania.</span></p>
+<p begin="9846930000t" end="9880300000t" region="region_1" xml:id="subtitle228"><span style="style_2">Komandor mniej niż dziesięć metrów</span><br/><span style="style_2">od brzegu pola.</span></p>
+<p begin="9889890000t" end="9927840000t" region="region_1" xml:id="subtitle229"><span style="style_2">Nie pamiętam, kto powiedział,</span><br/><span style="style_2">że rzeźby to skrystalizowane dusze...</span></p>
+<p begin="9936190000t" end="9959130000t" region="region_1" xml:id="subtitle230"><span style="style_2">Latarka.</span><br/><span style="style_2">...ale rozumiem go.</span></p>
+<p begin="9959960000t" end="9975810000t" region="region_1" xml:id="subtitle231"><span style="style_2">Tu Burnham z martwego punktu.</span></p>
+<p begin="9977890000t" end="9999170000t" region="region_1" xml:id="subtitle232"><span style="style_2">Jestem nad obiektem, który jest stary.</span></p>
+<p begin="10013760000t" end="10024610000t" region="region_1" xml:id="subtitle233"><span style="style_2">Ma całe wieki.</span></p>
+<p begin="10028360000t" end="10059640000t" region="region_1" xml:id="subtitle234"><span style="style_2">Ciężko stwierdzić,</span><br/><span style="style_2">czy to konstrukcja czy rzeźba.</span></p>
+<p begin="10076330000t" end="10122210000t" region="region_1" xml:id="subtitle235"><span style="style_2">Jedyne słowo,</span><br/><span style="style_2">które dobrze to opisuje, to... „och!”.</span></p>
+<p begin="10143890000t" end="10158910000t" region="region_1" xml:id="subtitle236"><span style="style_2">Ale spróbuję być dokładniejsza.</span></p>
+<p begin="10164330000t" end="10206040000t" region="region_1" xml:id="subtitle237"><span style="style_2">Powierzchnia wygląda na kamienną</span><br/><span style="style_2">i z metalowym egzoszkieletem.</span></p>
+<p begin="10237320000t" end="10251500000t" region="region_1" xml:id="subtitle238"><span style="style_2">Niesamowicie misterna.</span></p>
+<p begin="10257340000t" end="10289870000t" region="region_1" xml:id="subtitle239"><span style="style_2">Konstrukcja i forma są zdumiewające.</span></p>
+<p begin="10301958334t" end="10325315000t" region="region_1" xml:id="subtitle240"><span style="style_2">Chciałabym, żebyście mogli to zobaczyć.</span></p>
+<p begin="10329500000t" end="10340340000t" region="region_1" xml:id="subtitle241"><span style="style_2">Wysublimowany.</span></p>
+<p begin="10382050000t" end="10407910000t" region="region_1" xml:id="subtitle242"><span style="style_2">Nie da się określić jego celu.</span></p>
+<p begin="10425010000t" end="10444190000t" region="region_1" xml:id="subtitle243"><span style="style_2">Wyląduję i przyjrzę się z bliska.</span></p>
+<p begin="10483400000t" end="10495500000t" region="region_1" xml:id="subtitle244"><span style="style_2">Wolno i spokojnie.</span></p>
+<p begin="10537620000t" end="10572660000t" region="region_1" xml:id="subtitle245"><span style="style_2">Moja obecność sprowokowała jakiś ruch.</span></p>
+<p begin="10683180000t" end="10708630000t" region="region_1" xml:id="subtitle246"><span style="style_2">SKANOWANIE</span></p>
+<p begin="10714460000t" end="10744910000t" region="region_1" xml:id="subtitle247"><span style="style_1">Czas misji: dziesięć minut, 15 sekund.</span></p>
+<p begin="10775780000t" end="10803720000t" region="region_1" xml:id="subtitle248"><span style="style_1">Ostrzeżenie: alarm bliskości.</span></p>
+<p begin="10911750000t" end="10930930000t" region="region_1" xml:id="subtitle249"><span style="style_1">Skanowanie rozpoznawcze.</span></p>
+<p begin="10931770000t" end="10958040000t" region="region_2" xml:id="subtitle250"><span style="style_1">Symbole potwierdzone. Klingon.</span></p>
+<p begin="10977230000t" end="10990990000t" region="region_1" xml:id="subtitle251"><span style="style_2">Jestem komandor Burnham</span></p>
+<p begin="11003920000t" end="11024360000t" region="region_1" xml:id="subtitle252"><span style="style_2">ze Zjednoczonej Federacji Planet.</span></p>
+<p begin="11138220000t" end="11178680000t" region="region_1" xml:id="subtitle253"><span style="style_2">Wciąż żadnego znaku od komandor.</span><br/><span style="style_2">Czas misji kończy się za 15 sekund.</span></p>
+<p begin="11215380000t" end="11223720000t" region="region_1" xml:id="subtitle254"><span style="style_2">BRAK SYGNAŁU</span></p>
+<p begin="11229560000t" end="11259590000t" region="region_1" xml:id="subtitle255"><span style="style_2">Mam ją. Tylko odczyty.</span><br/><span style="style_2">Ciśnienie: 70 i spada.</span></p>
+<p begin="11260430000t" end="11292540000t" region="region_1" xml:id="subtitle256"><span style="style_2">- Zginie, jeśli jej nie ściągniemy.</span><br/><span style="style_2">- Mamy ją?</span></p>
+<p begin="11293380000t" end="11330080000t" region="region_1" xml:id="subtitle257"><span style="style_2">- Spójność wzorca zbyt słaba.</span><br/><span style="style_2">- Saru, wzmocnij jej sygnał.</span></p>
+<p begin="11330910000t" end="11358020000t" region="region_1" xml:id="subtitle258"><span style="style_2">- Nie ma sygnału.</span><br/><span style="style_2">- Postaraj się go namierzyć.</span></p>
+<p begin="11370525834t" end="11396802084t" region="region_1" xml:id="subtitle259"><span style="style_2">- Zdalnie odpal jej plecak odrzutowy.</span><br/><span style="style_2">- Jest poza siecią.</span></p>
+<p begin="11397650000t" end="11420170000t" region="region_1" xml:id="subtitle260"><span style="style_2">- Unosi się bez kontroli.</span><br/><span style="style_2">- Wiązka holująca?</span></p>
+<p begin="11421000000t" end="11443940000t" region="region_1" xml:id="subtitle261"><span style="style_2">Nie mogę jej namierzyć.</span><br/><span style="style_2">Przeliczanie ręczne.</span></p>
+<p begin="11444780000t" end="11483980000t" region="region_1" xml:id="subtitle262"><span style="style_2">Winne jest pole rozpraszające.</span><br/><span style="style_2">Musi być poza nim do teleportacji.</span></p>
+<p begin="11484806667t" end="11515253750t" region="region_1" xml:id="subtitle263"><span style="style_2">Wkrótce pojawią się objawy</span><br/><span style="style_2">syndromu promieniowania.</span></p>
+<p begin="11516100000t" end="11532780000t" region="region_1" xml:id="subtitle264"><span style="style_2">Nie wytrzyma długo.</span></p>
+<p begin="11545710000t" end="11556560000t" region="region_1" xml:id="subtitle265"><span style="style_2">Trzymaj się.</span></p>
+<p begin="11597836250t" end="11627449167t" region="region_1" xml:id="subtitle266"><span style="style_1">Komandor Burnham, tu </span><span style="style_2">Shenzhou.</span><br/><span style="style_1">Proszę się odezwać.</span></p>
+<p begin="11631202917t" end="11642464167t" region="region_1" xml:id="subtitle267"><span style="style_1">Komandor Burnham?</span></p>
+<p begin="11652070000t" end="11666670000t" region="region_1" xml:id="subtitle268"><span style="style_1">Proszę się odezwać.</span></p>
+<p begin="11674996667t" end="11692514167t" region="region_1" xml:id="subtitle269"><span style="style_2">Shenzhou </span><span style="style_1">do komandor Burnham.</span></p>
+<p begin="11699187500t" end="11724212500t" region="region_1" xml:id="subtitle270"><span style="style_1">Pani komandor, odbiór?</span><br/><span style="style_2"/><span style="style_1">Proszę się odezwać.</span></p>
+<p begin="11796380000t" end="11823490000t" region="region_1" xml:id="subtitle271"><span style="style_2">Zobaczcie naszego brata...</span></p>
+<p begin="11832670000t" end="11852270000t" region="region_1" xml:id="subtitle272"><span style="style_2">Dzierżyciela Pochodni,</span></p>
+<p begin="11856020000t" end="11873960000t" region="region_1" xml:id="subtitle273"><span style="style_2">zabitego przez intruza z Federacji</span></p>
+<p begin="11879784584t" end="11896050834t" region="region_1" xml:id="subtitle274"><span style="style_2">na naszym świętym sygnale.</span></p>
+<p begin="11968220000t" end="11982400000t" region="region_1" xml:id="subtitle275"><span style="style_2">Widzę cię,</span></p>
+<p begin="11983650000t" end="12004920000t" region="region_1" xml:id="subtitle276"><span style="style_2">gdy ty widzisz koniec.</span></p>
+<p begin="12024520000t" end="12046630000t" region="region_1" xml:id="subtitle277"><span style="style_2">Dzierżyciel Pochodni</span></p>
+<p begin="12047460000t" end="12068740000t" region="region_1" xml:id="subtitle278"><span style="style_2">nas uhonorował.</span></p>
+<p begin="12074160000t" end="12097510000t" region="region_1" xml:id="subtitle279"><span style="style_2">Zginął jako pierwszy</span></p>
+<p begin="12098350000t" end="12117530000t" region="region_1" xml:id="subtitle280"><span style="style_2">na wyprawie,</span></p>
+<p begin="12118370000t" end="12145900000t" region="region_1" xml:id="subtitle281"><span style="style_2">która ma nas uratować.</span></p>
+<p begin="12599670417t" end="12631785834t" region="region_1" xml:id="subtitle282"><span style="style_1">Nasi przodkowie</span></p>
+<p begin="12643060000t" end="12660580000t" region="region_1" xml:id="subtitle283"><span style="style_1">witają padłego brata,</span></p>
+<p begin="12661410000t" end="12672260000t" region="region_1" xml:id="subtitle284"><span style="style_1">Rejaca,</span></p>
+<p begin="12673090000t" end="12689360000t" region="region_1" xml:id="subtitle285"><span style="style_1">w Czarnej Flocie.</span></p>
+<p begin="12693110000t" end="12729810000t" region="region_1" xml:id="subtitle286"><span style="style_1">Będą przy nas</span></p>
+<p begin="12738150000t" end="12793210000t" region="region_1" xml:id="subtitle287"><span style="style_1">podczas walki z wrogiem.</span></p>
+<p begin="12804050000t" end="12834920000t" region="region_1" xml:id="subtitle288"><span style="style_1">Pozostaniemy Klingonami.</span></p>
+<p begin="12922920000t" end="12956710000t" region="region_1" xml:id="subtitle289"><span style="style_1">Uczennica Burnham.</span></p>
+<p begin="13054708334t" end="13079733334t" region="region_1" xml:id="subtitle290"><span style="style_1">Na czym opiera się klingoński</span><br/><span style="style_1">porządek społeczny?</span></p>
+<p begin="13080580000t" end="13105610000t" region="region_1" xml:id="subtitle291"><span style="style_2">- Nienaruszalna dynamika wstydu i honoru.</span><br/><span style="style_1">- Dobrze.</span></p>
+<p begin="13106440000t" end="13124790000t" region="region_1" xml:id="subtitle292"><span style="style_1">Planeta Klingonów, Qo'noS.</span></p>
+<p begin="13125630000t" end="13148570000t" region="region_1" xml:id="subtitle293"><span style="style_2">- Nieprzyjazna Federacji.</span><br/><span style="style_1">- Dobrze.</span></p>
+<p begin="13149400000t" end="13181100000t" region="region_1" xml:id="subtitle294"><span style="style_1">- Klingoński ustrój polityczny.</span><br/><span style="style_2">- 24 wielkie klany.</span></p>
+<p begin="13181930000t" end="13222390000t" region="region_1" xml:id="subtitle295"><span style="style_1">Dobrze. Miejsce ostatniego</span><br/><span style="style_1">napadu Klingonów.</span></p>
+<p begin="13241570000t" end="13278280000t" region="region_1" xml:id="subtitle296"><span style="style_1">Niedopuszczalna przerwa pomiędzy</span><br/><span style="style_1">pytaniem a odpowiedzią.</span></p>
+<p begin="13279110000t" end="13317070000t" region="region_1" xml:id="subtitle297"><span style="style_1">Liczba ocalałych</span><br/><span style="style_1">w bazie naukowej ludzi i Wolkanów</span></p>
+<p begin="13317900000t" end="13330000000t" region="region_1" xml:id="subtitle298"><span style="style_1">na Doctari Alpha.</span></p>
+<p begin="13348770000t" end="13384630000t" region="region_1" xml:id="subtitle299"><span style="style_1">Niedopuszczalna przerwa pomiędzy</span><br/><span style="style_1">pytaniem a odpowiedzią.</span></p>
+<p begin="13385470000t" end="13407990000t" region="region_1" xml:id="subtitle300"><span style="style_1">Liczba ocalałych na Doctari Alpha.</span></p>
+<p begin="13410910000t" end="13436350000t" region="region_1" xml:id="subtitle301"><span style="style_2">- Nie.</span><br/><span style="style_1">- Niedopuszczalna odpowiedź.</span></p>
+<p begin="13437190000t" end="13450950000t" region="region_1" xml:id="subtitle302"><span style="style_1">- Liczba...</span><br/><span style="style_2">- Proszę.</span></p>
+<p begin="13451790000t" end="13470550000t" region="region_1" xml:id="subtitle303"><span style="style_1">Liczba ocalałych...</span></p>
+<p begin="13484320000t" end="13492660000t" region="region_1" xml:id="subtitle304"><span style="style_2">Stop!</span></p>
+<p begin="13501821667t" end="13513082917t" region="region_1" xml:id="subtitle305"><span style="style_1">Program zatrzymany.</span></p>
+<p begin="13568990000t" end="13577330000t" region="region_1" xml:id="subtitle306"><span style="style_2">Sarek.</span></p>
+<p begin="13589409167t" end="13610263334t" region="region_1" xml:id="subtitle307"><span style="style_2">Przepraszam. Poprawię się.</span></p>
+<p begin="13615280000t" end="13641560000t" region="region_1" xml:id="subtitle308"><span style="style_2">Kiedy emocje</span><br/><span style="style_2">przywołują duchy przeszłości,</span></p>
+<p begin="13642390000t" end="13671590000t" region="region_1" xml:id="subtitle309"><span style="style_2">tylko logika zakorzeni nas</span><br/><span style="style_2">w teraźniejszości.</span></p>
+<p begin="13672420000t" end="13691190000t" region="region_1" xml:id="subtitle310"><span style="style_2">Może nauczę się wolkańskiego,</span></p>
+<p begin="13694530000t" end="13712460000t" region="region_1" xml:id="subtitle311"><span style="style_2">żeby szybciej odpowiadać.</span></p>
+<p begin="13719550000t" end="13739990000t" region="region_1" xml:id="subtitle312"><span style="style_2">Ludzki język nie stanowi problemu.</span></p>
+<p begin="13744160000t" end="13760840000t" region="region_1" xml:id="subtitle313"><span style="style_2">To twoje ludzkie serce.</span></p>
+<p begin="13875540000t" end="13889310000t" region="region_1" xml:id="subtitle314"><span style="style_1">Dobrze. Nie śpisz.</span></p>
+<p begin="13900150000t" end="13910580000t" region="region_1" xml:id="subtitle315"><span style="style_2">Śniłam.</span></p>
+<p begin="13923920000t" end="13932270000t" region="region_1" xml:id="subtitle316"><span style="style_1">O czym?</span></p>
+<p begin="13943940000t" end="13958120000t" region="region_1" xml:id="subtitle317"><span style="style_2">O Klingonach.</span></p>
+<p begin="13962300000t" end="13974810000t" region="region_1" xml:id="subtitle318"><span style="style_2">Jak się tu dostałam?</span></p>
+<p begin="13989410000t" end="14011510000t" region="region_1" xml:id="subtitle319"><span style="style_1">Ściągnęliśmy cię trzy godziny temu.</span></p>
+<p begin="14024440000t" end="14033620000t" region="region_1" xml:id="subtitle320"><span style="style_1">Trzy godziny?</span></p>
+<p begin="14035688334t" end="14059879167t" region="region_1" xml:id="subtitle321"><span style="style_1">Antyprotonowa terapia niedokończona.</span></p>
+<p begin="14060730000t" end="14080330000t" region="region_1" xml:id="subtitle322"><span style="style_2">Co robisz?</span></p>
+<p begin="14081160000t" end="14101180000t" region="region_1" xml:id="subtitle323"><span style="style_1">- Kryzys medyczny.</span><br/><span style="style_2">- Nie ma czasu.</span></p>
+<p begin="14102020000t" end="14136220000t" region="region_1" xml:id="subtitle324"><span style="style_2">Czekaj. Proces rekombinacji</span><br/><span style="style_2">jeszcze się nie skończył.</span></p>
+<p begin="14137050000t" end="14156240000t" region="region_1" xml:id="subtitle325"><span style="style_2">Wracaj do komory antyprotonowej.</span></p>
+<p begin="14157070000t" end="14182520000t" region="region_1" xml:id="subtitle326"><span style="style_2">Zdajesz sobie sprawę z rozpadu DNA?</span></p>
+<p begin="14183350000t" end="14208380000t" region="region_1" xml:id="subtitle327"><span style="style_2">Nie chcesz tak umrzeć.</span></p>
+<p begin="14216720000t" end="14243830000t" region="region_1" xml:id="subtitle328"><span style="style_2">Dwie gwiazdy mają wielką</span><br/><span style="style_2">energię kwantową.</span></p>
+<p begin="14249250000t" end="14275530000t" region="region_1" xml:id="subtitle329"><span style="style_2">Już blisko namierzenia celu,</span><br/><span style="style_2">ale nie wiem, co chwytam.</span></p>
+<p begin="14276360000t" end="14303050000t" region="region_1" xml:id="subtitle330"><span style="style_2">- Chcę wiedzieć, co tam jest.</span><br/><span style="style_2">- Jeszcze raz.</span></p>
+<p begin="14303890000t" end="14322240000t" region="region_1" xml:id="subtitle331"><span style="style_2">- Z dokładnością.</span><br/><span style="style_2">- Co jest?</span></p>
+<p begin="14338090000t" end="14358530000t" region="region_1" xml:id="subtitle332"><span style="style_2">Powinnaś być w ambulatorium.</span></p>
+<p begin="14364360000t" end="14372710000t" region="region_1" xml:id="subtitle333"><span style="style_2">Co...?</span></p>
+<p begin="14373960000t" end="14396480000t" region="region_1" xml:id="subtitle334"><span style="style_2">- Skontaktowali się?</span><br/><span style="style_2">- Kto?</span></p>
+<p begin="14401480000t" end="14425680000t" region="region_1" xml:id="subtitle335"><span style="style_2">Tam są Klingoni.</span><br/><span style="style_2">Musimy włączyć czerwony alarm.</span></p>
+<p begin="14426510000t" end="14435270000t" region="region_1" xml:id="subtitle336"><span style="style_2">Michael...</span></p>
+<p begin="14461540000t" end="14490740000t" region="region_1" xml:id="subtitle337"><span style="style_2">Od stu lat prawie nie widywano Klingonów.</span></p>
+<p begin="14491570000t" end="14523270000t" region="region_1" xml:id="subtitle338"><span style="style_2">Ja widziałam. Jeden mnie zaatakował.</span><br/><span style="style_2">Sprawdźcie kamerę w kasku.</span></p>
+<p begin="14528700000t" end="14553720000t" region="region_1" xml:id="subtitle339"><span style="style_2">- Nagranie jest zakłócone.</span><br/><span style="style_2">- Czujniki pokazują,</span></p>
+<p begin="14554550000t" end="14574990000t" region="region_1" xml:id="subtitle340"><span style="style_2">że komandor dotarła tu napromieniowana.</span></p>
+<p begin="14575830000t" end="14606270000t" region="region_1" xml:id="subtitle341"><span style="style_2">Bez natychmiastowego leczenia</span><br/><span style="style_2">to zagraża jej życiu.</span></p>
+<p begin="14612110000t" end="14630880000t" region="region_1" xml:id="subtitle342"><span style="style_2">Był z kasty wojowników.</span></p>
+<p begin="14635890000t" end="14660490000t" region="region_1" xml:id="subtitle343"><span style="style_2">Miał na skafandrze</span><br/><span style="style_2">insygnia klanu Klingonów.</span></p>
+<p begin="14661330000t" end="14684680000t" region="region_1" xml:id="subtitle344"><span style="style_2">- Ma wstrząs mózgu.</span><br/><span style="style_2">- To nie urojenia.</span></p>
+<p begin="14685520000t" end="14716380000t" region="region_1" xml:id="subtitle345"><span style="style_2">To nie ma nic wspólnego</span><br/><span style="style_2">ze wstrząsem mózgu. Philippa...</span></p>
+<p begin="14737240000t" end="14748080000t" region="region_1" xml:id="subtitle346"><span style="style_2">tam są Klingoni.</span></p>
+<p begin="14804390000t" end="14813980000t" region="region_1" xml:id="subtitle347"><span style="style_2">Czerwony alarm.</span></p>
+<p begin="14865280000t" end="14886970000t" region="region_1" xml:id="subtitle348"><span style="style_2">- Mów, co się stało.</span><br/><span style="style_2">- Zaczaił się.</span></p>
+<p begin="14890709167t" end="14925744167t" region="region_1" xml:id="subtitle349"><span style="style_2">Włączyłam plecak odrzutowy.</span><br/><span style="style_2">Wepchnęłam go na własne ostrze.</span></p>
+<p begin="14939940000t" end="14948700000t" region="region_1" xml:id="subtitle350"><span style="style_2">Zabiłam go.</span></p>
+<p begin="14970390000t" end="14992490000t" region="region_1" xml:id="subtitle351"><span style="style_2">Ale obiekt może mieścić</span><br/><span style="style_2">całą grupę Klingonów,</span></p>
+<p begin="14993330000t" end="15030450000t" region="region_1" xml:id="subtitle352"><span style="style_2">- schowanych za polem rozpraszającym.</span><br/><span style="style_2">- Jeśli są tam Klingoni,</span></p>
+<p begin="15031280000t" end="15060890000t" region="region_1" xml:id="subtitle353"><span style="style_2">mogą być odpowiedzialni</span><br/><span style="style_2">za uszkodzenie przekaźnika.</span></p>
+<p begin="15065050000t" end="15099667917t" region="region_1" xml:id="subtitle354"><span style="style_2">Jeśli są tam Klingoni,</span><br/><span style="style_2">powinniśmy się natychmiast wycofać.</span></p>
+<p begin="15100520000t" end="15133470000t" region="region_1" xml:id="subtitle355"><span style="style_2">To przestrzeń Federacji.</span><br/><span style="style_2">Nie ma takiej opcji.</span></p>
+<p begin="15156410000t" end="15180180000t" region="region_1" xml:id="subtitle356"><span style="style_2">Cokolwiek tam jest, musi się pokazać.</span></p>
+<p begin="15183930000t" end="15215220000t" region="region_1" xml:id="subtitle357"><span style="style_2">Jeśli to ukryci Klingoni,</span><br/><span style="style_2">musimy ich wypłoszyć.</span></p>
+<p begin="15220220000t" end="15242330000t" region="region_1" xml:id="subtitle358"><span style="style_2">Skierujcie na obiekt działa fazowe.</span></p>
+<p begin="15268180000t" end="15299880000t" region="region_1" xml:id="subtitle359"><span style="style_2">Nie możemy ot tak zniszczyć czegoś,</span><br/><span style="style_2">co należy do innej kultury.</span></p>
+<p begin="15300720000t" end="15317400000t" region="region_1" xml:id="subtitle360"><span style="style_2">Nie mówiłam nic o niszczeniu.</span></p>
+<p begin="15318230000t" end="15342010000t" region="region_1" xml:id="subtitle361"><span style="style_2">Niech pomyślą, że zaatakujemy.</span></p>
+<p begin="15347430000t" end="15360360000t" region="region_1" xml:id="subtitle362"><span style="style_2">Wycelujcie w obiekt.</span></p>
+<p begin="15369950000t" end="15378710000t" region="region_1" xml:id="subtitle363"><span style="style_2">Cel obrany.</span></p>
+<p begin="15390810000t" end="15403740000t" region="region_1" xml:id="subtitle364"><span style="style_2">Coś nas skanuje.</span></p>
+<p begin="15409143750t" end="15427912500t" region="region_1" xml:id="subtitle365"><span style="style_2">Wykryli sygnaturę naszej broni.</span></p>
+<p begin="15435440000t" end="15443780000t" region="region_1" xml:id="subtitle366"><span style="style_2">Czekajcie.</span></p>
+<p begin="15484650000t" end="15512180000t" region="region_1" xml:id="subtitle367"><span style="style_2">OSTRZEŻENIE O ZBLIŻENIU</span></p>
+<p begin="15587670000t" end="15598930000t" region="region_1" xml:id="subtitle368"><span style="style_2">Niemożliwe.</span></p>
+<p begin="15599770000t" end="15638140000t" region="region_1" xml:id="subtitle369"><span style="style_2">- Nie wykryto sygnatur warpu.</span><br/><span style="style_2">- Więc skąd się wzięli?</span></p>
+<p begin="15643140000t" end="15668590000t" region="region_1" xml:id="subtitle370"><span style="style_2">Panie Gant,</span><br/><span style="style_2">proszę rozbroić działo fazowe.</span></p>
+<p begin="15686940000t" end="15699450000t" region="region_1" xml:id="subtitle371"><span style="style_2">Pierwszy, do ambulatorium.</span></p>
+<p begin="15700280000t" end="15726980000t" region="region_1" xml:id="subtitle372"><span style="style_2">Potrzebuję cię zdrowej na mostku.</span></p>
+<p begin="15730310000t" end="15756170000t" region="region_1" xml:id="subtitle373"><span style="style_2">Panie Januzzi, proszę skontaktować się</span><br/><span style="style_2">z Gwiezdną Flotą.</span></p>
+<p begin="15757010000t" end="15773270000t" region="region_1" xml:id="subtitle374"><span style="style_2">Wyślij zakodowaną wiadomość.</span></p>
+<p begin="15779950000t" end="15805390000t" region="region_1" xml:id="subtitle375"><span style="style_2">Powiedz im, że napotkaliśmy Klingonów.</span></p>
+<p begin="15875040000t" end="15907160000t" region="region_1" xml:id="subtitle376"><span style="style_1">Do niezidentyfikowanego statku:</span><br/><span style="style_1">tu statek Federacji,</span><span style="style_2"> Shenzhou.</span></p>
+<p begin="15907990000t" end="15916750000t" region="region_1" xml:id="subtitle377"><span style="style_1">Odpowiedzcie.</span></p>
+<p begin="15941360000t" end="15973470000t" region="region_1" xml:id="subtitle378"><span style="style_1">Do niezidentyfikowanego statku:</span><br/><span style="style_1">tu statek Federacji,</span><span style="style_2"> Shenzhou.</span></p>
+<p begin="15974310000t" end="15983070000t" region="region_1" xml:id="subtitle379"><span style="style_1">Odpowiedzcie.</span></p>
+<p begin="15992660000t" end="16028530000t" region="region_1" xml:id="subtitle380"><span style="style_2">Jest tak, jak miało być.</span></p>
+<p begin="16048970000t" end="16077740000t" region="region_1" xml:id="subtitle381"><span style="style_2">Kto jest następcą</span></p>
+<p begin="16078580000t" end="16087340000t" region="region_1" xml:id="subtitle382"><span style="style_2">Rejaca?</span></p>
+<p begin="16127380000t" end="16139890000t" region="region_1" xml:id="subtitle383"><span style="style_2">Jestem jego bratem.</span></p>
+<p begin="16140720000t" end="16158240000t" region="region_1" xml:id="subtitle384"><span style="style_2">Or'Eq.</span></p>
+<p begin="16159080000t" end="16175760000t" region="region_1" xml:id="subtitle385"><span style="style_2">Na ciebie przechodzi honor</span></p>
+<p begin="16176590000t" end="16199950000t" region="region_1" xml:id="subtitle386"><span style="style_2">Dzierżyciela Pochodni.</span></p>
+<p begin="16203687500t" end="16216200000t" region="region_1" xml:id="subtitle387"><span style="style_2">Z całym szacunkiem...</span></p>
+<p begin="16232070000t" end="16264600000t" region="region_1" xml:id="subtitle388"><span style="style_2">W twoich naukach jest wielka mądrość...</span></p>
+<p begin="16274610000t" end="16282950000t" region="region_1" xml:id="subtitle389"><span style="style_2">Ale...?</span></p>
+<p begin="16286270000t" end="16322139167t" region="region_1" xml:id="subtitle390"><span style="style_2">Jesteś pewien, że nasi bracia</span><br/><span style="style_2">i siostry odpowiedzą na wezwanie?</span></p>
+<p begin="16322990000t" end="16351770000t" region="region_1" xml:id="subtitle391"><span style="style_2">Tak, bo przepowiednia nakazuje</span></p>
+<p begin="16361780000t" end="16397230000t" region="region_1" xml:id="subtitle392"><span style="style_2">wszystkim Klingonom przybyć</span><br/><span style="style_2">do światła Kahlessa,</span></p>
+<p begin="16398060000t" end="16427680000t" region="region_1" xml:id="subtitle393"><span style="style_2">kiedy rozbłyśnie na nocnym niebie.</span></p>
+<p begin="16432270000t" end="16453950000t" region="region_1" xml:id="subtitle394"><span style="style_2">Czy statki przemierzą galaktykę</span></p>
+<p begin="16454790000t" end="16473560000t" region="region_1" xml:id="subtitle395"><span style="style_2">z powodu bajki?</span></p>
+<p begin="16474374584t" end="16490223750t" region="region_1" xml:id="subtitle396"><span style="style_2">Wątpisz?</span></p>
+<p begin="16506072917t" end="16522339167t" region="region_1" xml:id="subtitle397"><span style="style_2">Hańbisz</span></p>
+<p begin="16540290000t" end="16559890000t" region="region_1" xml:id="subtitle398"><span style="style_2">tylko siebie.</span></p>
+<p begin="16588670000t" end="16609110000t" region="region_1" xml:id="subtitle399"><span style="style_2">Ja rozświetlę sygnał.</span></p>
+<p begin="16643730000t" end="16665830000t" region="region_1" xml:id="subtitle400"><span style="style_2">Podaj swoje imię.</span></p>
+<p begin="16672090000t" end="16682520000t" region="region_1" xml:id="subtitle401"><span style="style_2">Voq.</span></p>
+<p begin="16692940000t" end="16711710000t" region="region_1" xml:id="subtitle402"><span style="style_2">Niczyj syn.</span></p>
+<p begin="16758010000t" end="16780110000t" region="region_1" xml:id="subtitle403"><span style="style_2">Nie masz rodzinnego ostrza.</span></p>
+<p begin="16803050000t" end="16825160000t" region="region_1" xml:id="subtitle404"><span style="style_2">Nie możesz przyjąć</span></p>
+<p begin="16825990000t" end="16848520000t" region="region_1" xml:id="subtitle405"><span style="style_2">prawa przysługującego z urodzenia.</span></p>
+<p begin="16861860000t" end="16877710000t" region="region_1" xml:id="subtitle406"><span style="style_2">Nie jesteś godzien.</span></p>
+<p begin="16878550000t" end="16890220000t" region="region_1" xml:id="subtitle407"><span style="style_2">Jestem.</span></p>
+<p begin="16906490000t" end="16916080000t" region="region_1" xml:id="subtitle408"><span style="style_2">Nie</span></p>
+<p begin="16919840000t" end="16930680000t" region="region_1" xml:id="subtitle409"><span style="style_2">poprzez krew,</span></p>
+<p begin="16951950000t" end="16962800000t" region="region_1" xml:id="subtitle410"><span style="style_2">ale wiarę.</span></p>
+<p begin="17027844167t" end="17039939584t" region="region_1" xml:id="subtitle411"><span style="style_2">Służę</span></p>
+<p begin="17050800000t" end="17074990000t" region="region_1" xml:id="subtitle412"><span style="style_2">światłu Kahlessa.</span></p>
+<p begin="17114200000t" end="17129210000t" region="region_1" xml:id="subtitle413"><span style="style_2">Jestem ponownie zrodzony</span></p>
+<p begin="17130050000t" end="17141310000t" region="region_1" xml:id="subtitle414"><span style="style_2">z jego płomieni.</span></p>
+<p begin="17306890000t" end="17339420000t" region="region_1" xml:id="subtitle415"><span style="style_2">Jesteś jednym z tych,</span><br/><span style="style_2">którzy żyli na zewnątrz</span></p>
+<p begin="17346510000t" end="17369040000t" region="region_1" xml:id="subtitle416"><span style="style_2">i pragną być częścią czegoś</span></p>
+<p begin="17369870000t" end="17392810000t" region="region_1" xml:id="subtitle417"><span style="style_2">większego od siebie.</span></p>
+<p begin="17458274167t" end="17485384584t" region="region_1" xml:id="subtitle418"><span style="style_2">Niektórzy mogą postrzegać</span><br/><span style="style_2">kolor twojej skóry</span></p>
+<p begin="17486240000t" end="17503340000t" region="region_1" xml:id="subtitle419"><span style="style_2">jako pomyłkę natury.</span></p>
+<p begin="17527940000t" end="17554220000t" region="region_1" xml:id="subtitle420"><span style="style_2">Ja nazywam go lustrem,</span></p>
+<p begin="17563400000t" end="17590090000t" region="region_1" xml:id="subtitle421"><span style="style_2">bo dostrzegam w tobie samego siebie.</span></p>
+<p begin="17632630000t" end="17640970000t" region="region_1" xml:id="subtitle422"><span style="style_2">Panie.</span></p>
+<p begin="17653070000t" end="17674760000t" region="region_1" xml:id="subtitle423"><span style="style_2">Czujniki dalekiego zasięgu</span><br/><span style="style_2">wykrywają ruch,</span></p>
+<p begin="17675590000t" end="17692280000t" region="region_1" xml:id="subtitle424"><span style="style_2">tak jak przewidziałeś.</span></p>
+<p begin="17714380000t" end="17733980000t" region="region_1" xml:id="subtitle425"><span style="style_2">Wspaniale. Nadszedł czas.</span></p>
+<p begin="17741910000t" end="17767350000t" region="region_1" xml:id="subtitle426"><span style="style_2">Weź moje ostrze, Voq.</span></p>
+<p begin="17776940000t" end="17794880000t" region="region_1" xml:id="subtitle427"><span style="style_2">Niczyj syn.</span></p>
+<p begin="17818650000t" end="17854100000t" region="region_1" xml:id="subtitle428"><span style="style_2">Honor Dzierżyciela Pochodni</span><br/><span style="style_2">należy do ciebie.</span></p>
+<p begin="17867870000t" end="17900400000t" region="region_1" xml:id="subtitle429"><span style="style_2">Rozświetl sygnał.</span></p>
+<p begin="17967130000t" end="17999250000t" region="region_1" xml:id="subtitle430"><span style="style_1">Do niezidentyfikowanego statku:</span><br/><span style="style_1">tu statek Federacji, </span><span style="style_2">Shenzhou.</span></p>
+<p begin="18000080000t" end="18008840000t" region="region_1" xml:id="subtitle431"><span style="style_1">Odpowiedzcie.</span></p>
+<p begin="18009680000t" end="18042210000t" region="region_1" xml:id="subtitle432"><span style="style_2">Do niezidentyfikowanego statku:</span><br/><span style="style_2">tu statek Federacji, </span><span style="style_1">Shenzhou</span><span style="style_2">.</span></p>
+<p begin="18043040000t" end="18052640000t" region="region_1" xml:id="subtitle433"><span style="style_2">Odpowiedzcie.</span></p>
+<p begin="18070990000t" end="18107270000t" region="region_1" xml:id="subtitle434"><span style="style_2">- A może nas nie słyszą?</span><br/><span style="style_2">- Nadajesz na każdym kanale.</span></p>
+<p begin="18108110000t" end="18120620000t" region="region_1" xml:id="subtitle435"><span style="style_2">Jakie rozkazy?</span></p>
+<p begin="18136470000t" end="18160660000t" region="region_1" xml:id="subtitle436"><span style="style_2">- Jakaś odpowiedź?</span><br/><span style="style_2">- Żadnej.</span></p>
+<p begin="18166080000t" end="18174420000t" region="region_1" xml:id="subtitle437"><span style="style_2">Pani komandor,</span></p>
+<p begin="18182350000t" end="18204450000t" region="region_1" xml:id="subtitle438"><span style="style_2">chciałbym coś ci pokazać.</span></p>
+<p begin="18236990000t" end="18274520000t" region="region_1" xml:id="subtitle439"><span style="style_2">Kadłub jest pokryty pustymi,</span><br/><span style="style_2">metalowymi kapsułami,</span></p>
+<p begin="18275360000t" end="18296630000t" region="region_1" xml:id="subtitle440"><span style="style_2">ściśle połączonymi, są ich tysiące.</span></p>
+<p begin="18298720000t" end="18324160000t" region="region_1" xml:id="subtitle441"><span style="style_2">Tworzą coś na kształt zbroi.</span></p>
+<p begin="18330000000t" end="18347100000t" region="region_1" xml:id="subtitle442"><span style="style_2">To nie jest najlepsza ochrona.</span></p>
+<p begin="18347930000t" end="18381300000t" region="region_1" xml:id="subtitle443"><span style="style_2">Podejrzewam, że ma wymiar symboliczny,</span><br/><span style="style_2">a nie praktyczny.</span></p>
+<p begin="18398820000t" end="18440110000t" region="region_1" xml:id="subtitle444"><span style="style_2">Zawierają rozkładający się,</span><br/><span style="style_2">klingoński materiał biologiczny.</span></p>
+<p begin="18442590834t" end="18460108334t" region="region_1" xml:id="subtitle445"><span style="style_2">Zdalne datowanie jest rozbieżne.</span></p>
+<p begin="18460960000t" end="18492660000t" region="region_1" xml:id="subtitle446"><span style="style_2">Niektóre z kości mają tysiące lat,</span><br/><span style="style_2">a niektóre kilka godzin.</span></p>
+<p begin="18501840000t" end="18526440000t" region="region_1" xml:id="subtitle447"><span style="style_2">Cały statek jest pokryty trumnami.</span></p>
+<p begin="18536040000t" end="18560640000t" region="region_1" xml:id="subtitle448"><span style="style_2">Pani komandor, kapitan cię słucha.</span></p>
+<p begin="18568990000t" end="18602770000t" region="region_1" xml:id="subtitle449"><span style="style_2">Powiedz jej, że musimy się wycofać.</span></p>
+<p begin="18621540000t" end="18641980000t" region="region_1" xml:id="subtitle450"><span style="style_2">Obawiam się, że to już niemożliwe.</span></p>
+<p begin="18693280000t" end="18719550000t" region="region_1" xml:id="subtitle451"><span style="style_2">W twoim świecie</span><br/><span style="style_2">istnieją łańcuchy pokarmowe.</span></p>
+<p begin="18722060000t" end="18732070000t" region="region_1" xml:id="subtitle452"><span style="style_2">W moim - nie.</span></p>
+<p begin="18740805417t" end="18782930834t" region="region_1" xml:id="subtitle453"><span style="style_2">Nasz rozkład gatunków jest dwoisty.</span><br/><span style="style_2">Jesteśmy drapieżnikiem albo ofiarą.</span></p>
+<p begin="18790021250t" end="18804619167t" region="region_1" xml:id="subtitle454"><span style="style_2">Na moich ludzi polowano.</span></p>
+<p begin="18807140000t" end="18848430000t" region="region_1" xml:id="subtitle455"><span style="style_2">Hodowano nas. Jesteśmy inwentarzem.</span></p>
+<p begin="18861780000t" end="18902240000t" region="region_1" xml:id="subtitle456"><span style="style_2">Zostaliśmy biologicznie uwarunkowani</span><br/><span style="style_2">do jednego i tylko jednego celu:</span></p>
+<p begin="18916420000t" end="18932270000t" region="region_1" xml:id="subtitle457"><span style="style_2">wyczuwania śmierci.</span></p>
+<p begin="18965630000t" end="18980230000t" region="region_1" xml:id="subtitle458"><span style="style_2">Wyczuwam, że nadchodzi.</span></p>
+<p begin="19037351667t" end="19061125417t" region="region_1" xml:id="subtitle459"><span style="style_1">Statek Klingonów jest w trybie ukrycia.</span></p>
+<p begin="19061980000t" end="19099520000t" region="region_1" xml:id="subtitle460"><span style="style_2">To coś w rodzaju osłon maskujących,</span><br/><span style="style_2">jakich jeszcze nie widzieliśmy.</span></p>
+<p begin="19100350000t" end="19122870000t" region="region_1" xml:id="subtitle461"><span style="style_2">Może być tam więcej statków.</span></p>
+<p begin="19123710000t" end="19160830000t" region="region_1" xml:id="subtitle462"><span style="style_2">Powitaliśmy ich przyjaźnie</span><br/><span style="style_2">w każdy możliwy sposób.</span></p>
+<p begin="19161660000t" end="19185440000t" region="region_1" xml:id="subtitle463"><span style="style_2">- Blokują nasze powitania.</span><br/><span style="style_2">- Wygląda na pułapkę.</span></p>
+<p begin="19186270000t" end="19214630000t" region="region_1" xml:id="subtitle464"><span style="style_2">Może nasz przekaźnik był zbyt blisko</span><br/><span style="style_2">dla Klingonów</span></p>
+<p begin="19215470000t" end="19234650000t" region="region_1" xml:id="subtitle465"><span style="style_2">i zniszczyli go, by nas tu zwabić.</span></p>
+<p begin="19235490000t" end="19261760000t" region="region_1" xml:id="subtitle466"><span style="style_2">Pamięta pan mojego pierwszego oficera,</span><br/><span style="style_2">Michael Burnham?</span></p>
+<p begin="19269690000t" end="19289710000t" region="region_1" xml:id="subtitle467"><span style="style_2">Następnym razem nie wchodź na teren</span></p>
+<p begin="19290540000t" end="19319320000t" region="region_1" xml:id="subtitle468"><span style="style_2">rasy wojowników, z którą</span><br/><span style="style_2">nie rozmawialiśmy od stu lat.</span></p>
+<p begin="19324740000t" end="19347260000t" region="region_1" xml:id="subtitle469"><span style="style_2">Teraz możemy tylko</span><br/><span style="style_2">przeprowadzić wszystko</span></p>
+<p begin="19348100000t" end="19378960000t" region="region_1" xml:id="subtitle470"><span style="style_2">- tak delikatnie, jak tylko się da.</span><br/><span style="style_2">- Admirale, jeśli mogę...</span></p>
+<p begin="19418982917t" end="19453600834t" region="region_1" xml:id="subtitle471"><span style="style_2">Dla Klingonów idealny rezultat</span><br/><span style="style_2">każdej interakcji to bitwa.</span></p>
+<p begin="19457771667t" end="19479042917t" region="region_1" xml:id="subtitle472"><span style="style_2">Ich wrogie nastawienie nie słabnie.</span></p>
+<p begin="19481980000t" end="19510340000t" region="region_1" xml:id="subtitle473"><span style="style_2">- Leży w ich naturze.</span><br/><span style="style_2">- Federacja i Imperium Klingońskie</span></p>
+<p begin="19511180000t" end="19538710000t" region="region_1" xml:id="subtitle474"><span style="style_2">zawsze prowadziły zimną wojnę.</span></p>
+<p begin="19539540000t" end="19565400000t" region="region_1" xml:id="subtitle475"><span style="style_2">Przez cały wiek</span><br/><span style="style_2">przelotnie ich widywaliśmy,</span></p>
+<p begin="19566230000t" end="19590420000t" region="region_1" xml:id="subtitle476"><span style="style_2">a teraz wyciągasz wnioski</span><br/><span style="style_2">o ich motywach,</span></p>
+<p begin="19591260000t" end="19605860000t" region="region_1" xml:id="subtitle477"><span style="style_2">bo taka jest ich natura?</span></p>
+<p begin="19606690000t" end="19632970000t" region="region_1" xml:id="subtitle478"><span style="style_2">Z uwagi na twoje pochodzenie</span><br/><span style="style_2">powinnaś być ostatnią osobą,</span></p>
+<p begin="19633800000t" end="19649650000t" region="region_1" xml:id="subtitle479"><span style="style_2">która ocenia kogoś po rasie.</span></p>
+<p begin="19650480000t" end="19676760000t" region="region_1" xml:id="subtitle480"><span style="style_2">Z całym szacunkiem,</span><br/><span style="style_2">ale lepiej nie mylić rasy z kulturą.</span></p>
+<p begin="19677590000t" end="19706790000t" region="region_1" xml:id="subtitle481"><span style="style_1">Europa</span><span style="style_2"> i wszystkie statki</span><br/><span style="style_2">znajdujące się w zasięgu</span></p>
+<p begin="19707620000t" end="19735150000t" region="region_1" xml:id="subtitle482"><span style="style_2">przylecą do was za dwie godziny.</span><br/><span style="style_2">Utrzymajcie pozycję.</span></p>
+<p begin="19735990000t" end="19759340000t" region="region_1" xml:id="subtitle483"><span style="style_2">Nie prowokujcie ich. Zrozumiano?</span></p>
+<p begin="19760180000t" end="19769350000t" region="region_1" xml:id="subtitle484"><span style="style_2">Zrozumiano.</span></p>
+<p begin="19785620000t" end="19797300000t" region="region_1" xml:id="subtitle485"><span style="style_1">Sygnał wyłączony.</span></p>
+<p begin="19807720000t" end="19816900000t" region="region_1" xml:id="subtitle486"><span style="style_2">Nieźle poszło.</span></p>
+<p begin="19840260000t" end="19871120000t" region="region_1" xml:id="subtitle487"><span style="style_2">- Jakie panują nastroje?</span><br/><span style="style_2">- Tylko Saru mówi.</span></p>
+<p begin="19882380000t" end="19912830000t" region="region_1" xml:id="subtitle488"><span style="style_2">Jest przekonany,</span><br/><span style="style_2">że powinniśmy się wycofać.</span></p>
+<p begin="19923260000t" end="19961210000t" region="region_1" xml:id="subtitle489"><span style="style_2">Na Eagle 12, trzy lata świetlne stąd,</span><br/><span style="style_2">jest stacja kosmiczna.</span></p>
+<p begin="19967050000t" end="19990410000t" region="region_1" xml:id="subtitle490"><span style="style_2">Andoriańska kolonia</span><br/><span style="style_2">na Gamma Hydra - sześć.</span></p>
+<p begin="19991240000t" end="20025860000t" region="region_1" xml:id="subtitle491"><span style="style_1">Shenzhou </span><span style="style_2">to jedyna linia obrony,</span><br/><span style="style_2">jeśli Klingoni zaatakują.</span></p>
+<p begin="20026690000t" end="20049630000t" region="region_1" xml:id="subtitle492"><span style="style_2">Nie jeśli, ale kiedy.</span></p>
+<p begin="20050470000t" end="20078410000t" region="region_1" xml:id="subtitle493"><span style="style_2">Muszę wierzyć, że cokolwiek się tu dzieje,</span></p>
+<p begin="20079250000t" end="20103440000t" region="region_1" xml:id="subtitle494"><span style="style_2">będzie mostem pomiędzy</span><br/><span style="style_2">naszymi cywilizacjami.</span></p>
+<p begin="20108838750t" end="20129275834t" region="region_1" xml:id="subtitle495"><span style="style_2">Przemawia przez ciebie dyplomata.</span></p>
+<p begin="20139720000t" end="20154320000t" region="region_1" xml:id="subtitle496"><span style="style_2">A co mówi żołnierz?</span></p>
+<p begin="20181850000t" end="20191020000t" region="region_1" xml:id="subtitle497"><span style="style_2">Nic dobrego.</span></p>
+<p begin="20229792917t" end="20244390834t" region="region_1" xml:id="subtitle498"><span style="style_1">Pani kapitan, na mostek.</span></p>
+<p begin="20265680000t" end="20296960000t" region="region_1" xml:id="subtitle499"><span style="style_2">- Status.</span><br/><span style="style_2">- Duża aktywność fotoniczna na ich statku.</span></p>
+<p begin="20297800000t" end="20316980000t" region="region_1" xml:id="subtitle500"><span style="style_2">Ponad miliard lumenów na metr kwadratowy.</span></p>
+<p begin="20317820000t" end="20330330000t" region="region_1" xml:id="subtitle501"><span style="style_2">Czujniki przeciążone.</span></p>
+<p begin="20331160000t" end="20359530000t" region="region_1" xml:id="subtitle502"><span style="style_2">- Włączcie filtry plazmatyczne.</span><br/><span style="style_2">- Przekaz energii.</span></p>
+<p begin="20364950000t" end="20375380000t" region="region_1" xml:id="subtitle503"><span style="style_2">Czy to broń?</span></p>
+<p begin="20376210000t" end="20399570000t" region="region_1" xml:id="subtitle504"><span style="style_2">Wygląda na jakiś emiter sygnału.</span></p>
+<p begin="20421670000t" end="20452540000t" region="region_1" xml:id="subtitle505"><span style="style_2">- Gdzie moje filtry?</span><br/><span style="style_2">- Sto procent wydajności.</span></p>
+<p begin="20570990000t" end="20596010000t" region="region_1" xml:id="subtitle506"><span style="style_2">Wyłączenie awaryjne.</span></p>
+<p begin="20602270000t" end="20624790000t" region="region_1" xml:id="subtitle507"><span style="style_2">Ten hałas to elektromagnetyczna fala.</span></p>
+<p begin="20625630000t" end="20656070000t" region="region_1" xml:id="subtitle508"><span style="style_2">- Zwężanie zakresu kanału.</span><br/><span style="style_2">- Dostosować orientację i rozproszenie.</span></p>
+<p begin="20656910000t" end="20674010000t" region="region_1" xml:id="subtitle509"><span style="style_2">- Niech ktoś to wyłączy.</span><br/><span style="style_2">- Tak jest.</span></p>
+<p begin="20681100000t" end="20701950000t" region="region_1" xml:id="subtitle510"><span style="style_2">- Całkiem.</span><br/><span style="style_2">- Akustyka wyciszona.</span></p>
+<p begin="20702790000t" end="20728650000t" region="region_1" xml:id="subtitle511"><span style="style_2">To wibracje struktury statku.</span></p>
+<p begin="20741160000t" end="20767430000t" region="region_1" xml:id="subtitle512"><span style="style_2">- To puls sygnałowy.</span><br/><span style="style_2">- Niesie wiadomość?</span></p>
+<p begin="20768270000t" end="20782450000t" region="region_1" xml:id="subtitle513"><span style="style_2">To może być wiadomość.</span></p>
+<p begin="20786200000t" end="20813310000t" region="region_1" xml:id="subtitle514"><span style="style_2">A co, jeśli wzywają to samo, co my?</span></p>
+<p begin="20820400000t" end="20853350000t" region="region_1" xml:id="subtitle515"><span style="style_2">- Wsparcie.</span><br/><span style="style_2">- Czujniki dalekiego zasięgu do maksimum.</span></p>
+<p begin="20854166667t" end="20888784584t" region="region_1" xml:id="subtitle516"><span style="style_2">Jeśli zdąża tu więcej Klingonów,</span><br/><span style="style_2">chcę wiedzieć jak najwcześniej.</span></p>
+<p begin="20889640000t" end="20913000000t" region="region_1" xml:id="subtitle517"><span style="style_2">- Proszę o pozwolenie na wyjście.</span><br/><span style="style_2">- Żartujesz?</span></p>
+<p begin="20913830000t" end="20924260000t" region="region_1" xml:id="subtitle518"><span style="style_2">To ważne.</span></p>
+<p begin="20944280000t" end="20955960000t" region="region_1" xml:id="subtitle519"><span style="style_2">Udzielam.</span></p>
+<p begin="20956790000t" end="20984730000t" region="region_1" xml:id="subtitle520"><span style="style_2">Chorąży, poproszę o raport</span><br/><span style="style_2">z każdego pokładu.</span></p>
+<p begin="20985570000t" end="20993910000t" region="region_1" xml:id="subtitle521"><span style="style_2">Tak jest.</span></p>
+<p begin="21017680000t" end="21035620000t" region="region_1" xml:id="subtitle522"><span style="style_2">- Komputer.</span><br/><span style="style_1">- Włączony.</span></p>
+<p begin="21036450000t" end="21064810000t" region="region_1" xml:id="subtitle523"><span style="style_2">Otwórz wydzielony</span><br/><span style="style_2">kanał podprzestrzenny 222AA7.</span></p>
+<p begin="21065650000t" end="21083580000t" region="region_1" xml:id="subtitle524"><span style="style_1">Ta częstotliwość wymaga</span></p>
+<p begin="21084396667t" end="21121517084t" region="region_1" xml:id="subtitle525"><span style="style_1">- autoryzacji dyplomatycznej.</span><br/><span style="style_2">- Autoryzacja głosowa. Burnham...</span></p>
+<p begin="21122370000t" end="21137800000t" region="region_1" xml:id="subtitle526"><span style="style_2">- Michael.</span><br/><span style="style_1">- Potwierdzono.</span></p>
+<p begin="21155320000t" end="21164910000t" region="region_1" xml:id="subtitle527"><span style="style_2">Komandor Burnham.</span></p>
+<p begin="21165750000t" end="21187440000t" region="region_1" xml:id="subtitle528"><span style="style_2">Witaj, Sarek. Miło cię widzieć.</span></p>
+<p begin="21188270000t" end="21199530000t" region="region_1" xml:id="subtitle529"><span style="style_2">Po tylu latach</span></p>
+<p begin="21202040000t" end="21226230000t" region="region_1" xml:id="subtitle530"><span style="style_2">wciąż pozwalasz emocjom</span></p>
+<p begin="21227060000t" end="21239160000t" region="region_1" xml:id="subtitle531"><span style="style_2">wpływać na logikę.</span></p>
+<p begin="21239990000t" end="21262930000t" region="region_1" xml:id="subtitle532"><span style="style_2">One informują logikę.</span></p>
+<p begin="21283370000t" end="21295880000t" region="region_1" xml:id="subtitle533"><span style="style_2">Potrzebuję twojej pomocy.</span></p>
+<p begin="21299611667t" end="21327556250t" region="region_1" xml:id="subtitle534"><span style="style_2">Domyśliłem się,</span><br/><span style="style_2">że pora nie jest przypadkowa.</span></p>
+<p begin="21328410000t" end="21350100000t" region="region_1" xml:id="subtitle535"><span style="style_2">Nowa gwiazda w kwadrancie.</span></p>
+<p begin="21371350000t" end="21400545834t" region="region_1" xml:id="subtitle536"><span style="style_2">Co narobiliście na skraju</span><br/><span style="style_2">przestrzeni kosmicznej Federacji?</span></p>
+<p begin="21401400000t" end="21419750000t" region="region_1" xml:id="subtitle537"><span style="style_2">Natknęliśmy się na Klingonów.</span></p>
+<p begin="21425180000t" end="21456040000t" region="region_1" xml:id="subtitle538"><span style="style_2">Rzadko spotyka się</span><br/><span style="style_2">własne demony z krwi i kości.</span></p>
+<p begin="21456852084t" end="21471032917t" region="region_1" xml:id="subtitle539"><span style="style_2">Zabiłam jednego z nich.</span></p>
+<p begin="21488150000t" end="21517350000t" region="region_1" xml:id="subtitle540"><span style="style_2">W świetle faktu,</span><br/><span style="style_2">że oni zabili twoich rodziców...</span></p>
+<p begin="21524836667t" end="21546107917t" region="region_1" xml:id="subtitle541"><span style="style_2">niektórzy powiedzieliby, że to fair.</span></p>
+<p begin="21558220000t" end="21594510000t" region="region_1" xml:id="subtitle542"><span style="style_2">Jeśli śmierć była konieczna,</span></p>
+<p begin="21595350000t" end="21621200000t" region="region_1" xml:id="subtitle543"><span style="style_2">cieszę się, że nie dotknęła ciebie.</span></p>
+<p begin="21643310000t" end="21673340000t" region="region_1" xml:id="subtitle544"><span style="style_2">Jestem pewien, że nie połączyłaś się</span><br/><span style="style_2">ze mną dla pocieszenia.</span></p>
+<p begin="21674152500t" end="21688333334t" region="region_1" xml:id="subtitle545"><span style="style_2">Stoimy naprzeciw siebie.</span></p>
+<p begin="21692940000t" end="21727140000t" region="region_1" xml:id="subtitle546"><span style="style_2">Nie wymieniliśmy ognia.</span><br/><span style="style_2">Ale włączyli sygnał świetlny,</span></p>
+<p begin="21727980000t" end="21749670000t" region="region_1" xml:id="subtitle547"><span style="style_2">gdy zaczęła</span><br/><span style="style_2">do nas lecieć Gwiezdna Flota.</span></p>
+<p begin="21750500000t" end="21774690000t" region="region_1" xml:id="subtitle548"><span style="style_2">Myślę, że wzywają kolejnych.</span></p>
+<p begin="21775530000t" end="21819740000t" region="region_1" xml:id="subtitle549"><span style="style_2">Dziwne, zważywszy na to, że ich</span><br/><span style="style_2">imperium od pokoleń jest rozbite.</span></p>
+<p begin="21820570000t" end="21846430000t" region="region_1" xml:id="subtitle550"><span style="style_2">Ale opisujesz coś niespotykanego.</span></p>
+<p begin="21851850000t" end="21871450000t" region="region_1" xml:id="subtitle551"><span style="style_2">Powściągliwość w obliczu konfliktu.</span></p>
+<p begin="21876040000t" end="21906910000t" region="region_1" xml:id="subtitle552"><span style="style_2">Kiedy cywilizacja działa</span><br/><span style="style_2">wbrew swoim instynktom,</span></p>
+<p begin="21907740000t" end="21943190000t" region="region_1" xml:id="subtitle553"><span style="style_2">może być pod wpływem czegoś</span><br/><span style="style_2">lub kogoś nowego.</span></p>
+<p begin="21955710000t" end="22003670000t" region="region_1" xml:id="subtitle554"><span style="style_2">Tych, którzy potrafią zjednoczyć,</span><br/><span style="style_2">jest mało, ale się zdarzają.</span></p>
+<p begin="22008680000t" end="22043290000t" region="region_1" xml:id="subtitle555"><span style="style_2">Tacy dowódcy często potrzebują</span><br/><span style="style_2">ważnego powodu,</span></p>
+<p begin="22044130000t" end="22064150000t" region="region_1" xml:id="subtitle556"><span style="style_2">aby zgromadzić wyznawców.</span></p>
+<p begin="22068320000t" end="22078750000t" region="region_1" xml:id="subtitle557"><span style="style_2">Wojna.</span></p>
+<p begin="22090010000t" end="22101690000t" region="region_1" xml:id="subtitle558"><span style="style_2">Uważaj,</span></p>
+<p begin="22103350000t" end="22145060000t" region="region_1" xml:id="subtitle559"><span style="style_2">żeby twoje przypuszczenia</span><br/><span style="style_2">nie wynikały z przeszłości.</span></p>
+<p begin="22157160000t" end="22194690000t" region="region_1" xml:id="subtitle560"><span style="style_2">Nie chodzi o to, co się stało,</span><br/><span style="style_2">tylko o to, co dzieje się teraz.</span></p>
+<p begin="22226390000t" end="22257670000t" region="region_1" xml:id="subtitle561"><span style="style_2">Jak Wolkanom udało się osiągnąć</span><br/><span style="style_2">dyplomatyczną relację z Klingonami?</span></p>
+<p begin="22260154584t" end="22284345417t" region="region_1" xml:id="subtitle562"><span style="style_2">To rozwiązanie odpowiednie tylko dla nas.</span></p>
+<p begin="22285200000t" end="22316070000t" region="region_1" xml:id="subtitle563"><span style="style_2">To nie znaczy, że zadziała</span><br/><span style="style_2">na statku dowodzonym przez ludzi.</span></p>
+<p begin="22321490000t" end="22329830000t" region="region_1" xml:id="subtitle564"><span style="style_2">Sarek...</span></p>
+<p begin="22344430000t" end="22352770000t" region="region_1" xml:id="subtitle565"><span style="style_2">proszę cię.</span></p>
+<p begin="22358190000t" end="22369450000t" region="region_1" xml:id="subtitle566"><span style="style_2">Ostrzegam...</span></p>
+<p begin="22375710000t" end="22404070000t" region="region_1" xml:id="subtitle567"><span style="style_2">postępuj ostrożnie z tą informacją.</span></p>
+<p begin="22410740000t" end="22438270000t" region="region_1" xml:id="subtitle568"><span style="style_2">Nie ocalisz żyć,</span><br/><span style="style_2">które już zostały stracone.</span></p>
+<p begin="22443690000t" end="22452040000t" region="region_1" xml:id="subtitle569"><span style="style_2">Powiedz mi,</span></p>
+<p begin="22453681250t" end="22482042917t" region="region_1" xml:id="subtitle570"><span style="style_2">w jaki sposób trzymaliście</span><br/><span style="style_2">Klingonów na dystans.</span></p>
+<p begin="22510821667t" end="22535012500t" region="region_1" xml:id="subtitle571"><span style="style_2">- Maszynownia, raport.</span><br/><span style="style_2">- Brak uszkodzeń wewnątrz.</span></p>
+<p begin="22535846667t" end="22548359167t" region="region_1" xml:id="subtitle572"><span style="style_2">Rdzeń na sto procent.</span></p>
+<p begin="22550050000t" end="22582170000t" region="region_1" xml:id="subtitle573"><span style="style_2">Musimy do nich strzelić.</span><br/><span style="style_2">Uderzyć wszystkim, co mamy.</span></p>
+<p begin="22585920000t" end="22595930000t" region="region_1" xml:id="subtitle574"><span style="style_2">To wykluczone.</span></p>
+<p begin="22596760000t" end="22629710000t" region="region_1" xml:id="subtitle575"><span style="style_2">Nie zasilili swoich broni.</span><br/><span style="style_2">Nie stanowią rychłego zagrożenia.</span></p>
+<p begin="22630550000t" end="22654740000t" region="region_1" xml:id="subtitle576"><span style="style_2">Zagrożenie jest zawsze</span><br/><span style="style_2">rychłe i nieuniknione.</span></p>
+<p begin="22655570000t" end="22675590000t" region="region_1" xml:id="subtitle577"><span style="style_2">- Dziennik taktyczny gotowy.</span><br/><span style="style_2">- Dziękuję.</span></p>
+<p begin="22676430000t" end="22701870000t" region="region_1" xml:id="subtitle578"><span style="style_2">Chciałabym przypomnieć,</span><br/><span style="style_2">że mamy mniej broni.</span></p>
+<p begin="22716860834t" end="22739383334t" region="region_1" xml:id="subtitle579"><span style="style_2">Dwieście czterdzieści lat temu</span><br/><span style="style_2">niedaleko H'Atorii</span></p>
+<p begin="22740240000t" end="22762350000t" region="region_1" xml:id="subtitle580"><span style="style_2">statek wolkański wleciał</span><br/><span style="style_2">w przestrzeń Klingonów.</span></p>
+<p begin="22763180000t" end="22797800000t" region="region_1" xml:id="subtitle581"><span style="style_2">Klingoni zaatakowali natychmiast.</span><br/><span style="style_2">Zniszczyli statek.</span></p>
+<p begin="22799050000t" end="22824490000t" region="region_1" xml:id="subtitle582"><span style="style_2">Wolkanie nie popełniają</span><br/><span style="style_2">dwa razy tego samego błędu.</span></p>
+<p begin="22825330000t" end="22852020000t" region="region_1" xml:id="subtitle583"><span style="style_2">Od tamtej pory,</span><br/><span style="style_2">dopóki nie ustalili relacji,</span></p>
+<p begin="22852850000t" end="22891220000t" region="region_1" xml:id="subtitle584"><span style="style_2">kiedy Wolkanie napotykali Klingonów,</span><br/><span style="style_2">strzelali pierwsi.</span></p>
+<p begin="22895810000t" end="22926260000t" region="region_1" xml:id="subtitle585"><span style="style_2">Witali się w języku,</span><br/><span style="style_2">który Klingoni rozumieją.</span></p>
+<p begin="22930010000t" end="22960040000t" region="region_1" xml:id="subtitle586"><span style="style_2">Przemoc budziła respekt.</span><br/><span style="style_2">A respekt budził pokój.</span></p>
+<p begin="22971300000t" end="23002590000t" region="region_1" xml:id="subtitle587"><span style="style_2">Musimy powitać Klingonów jak Wolkanie.</span></p>
+<p begin="23008010000t" end="23052220000t" region="region_1" xml:id="subtitle588"><span style="style_2">Jeśli chcą atakować, to zaciskanie pięści</span><br/><span style="style_2">ich od tego nie odwiedzie.</span></p>
+<p begin="23094760000t" end="23140640000t" region="region_1" xml:id="subtitle589"><span style="style_2">Rozsądnie byłoby rozważyć moje sukcesy</span><br/><span style="style_2">podczas naszych wspólnych siedmiu lat</span></p>
+<p begin="23142310000t" end="23163160000t" region="region_1" xml:id="subtitle590"><span style="style_2">i wdrożyć mój plan bez obiekcji,</span></p>
+<p begin="23164000000t" end="23182770000t" region="region_1" xml:id="subtitle591"><span style="style_2">zanim zostaniemy wciągnięci w wojnę.</span></p>
+<p begin="23183600000t" end="23219890000t" region="region_1" xml:id="subtitle592"><span style="style_2">Gwiezdna Flota nie strzela pierwsza.</span><br/><span style="style_2">To wszystko, pierwszy.</span></p>
+<p begin="23220720000t" end="23229480000t" region="region_1" xml:id="subtitle593"><span style="style_2">Musimy.</span></p>
+<p begin="23272440000t" end="23290790000t" region="region_1" xml:id="subtitle594"><span style="style_2">Do mojego gabinetu. Teraz.</span></p>
+<p begin="23316230000t" end="23342090000t" region="region_1" xml:id="subtitle595"><span style="style_2">- Komandorze, mostek jest twój.</span><br/><span style="style_2">- Tak jest.</span></p>
+<p begin="23395038334t" end="23408802084t" region="region_1" xml:id="subtitle596"><span style="style_2">Komputerze, prywatność.</span></p>
+<p begin="23415920000t" end="23435940000t" region="region_1" xml:id="subtitle597"><span style="style_2">- Kapi...</span><br/><span style="style_2">- Jak śmiesz mi się stawiać?</span></p>
+<p begin="23442190000t" end="23467630000t" region="region_1" xml:id="subtitle598"><span style="style_2">Przepraszam za niesubordynację.</span></p>
+<p begin="23468470000t" end="23508090000t" region="region_1" xml:id="subtitle599"><span style="style_2">- To może zdestabilizować załogę.</span><br/><span style="style_2">- Nie wątp w nich.</span></p>
+<p begin="23508930000t" end="23536870000t" region="region_1" xml:id="subtitle600"><span style="style_2">Nadzorowałam ich ćwiczenia.</span><br/><span style="style_2">Są gotowi do bitwy.</span></p>
+<p begin="23537700000t" end="23586090000t" region="region_1" xml:id="subtitle601"><span style="style_2">Bitwa to nie symulacja. To krew, krzyki...</span></p>
+<p begin="23595680000t" end="23606110000t" region="region_1" xml:id="subtitle602"><span style="style_2">i pogrzeby.</span></p>
+<p begin="23611530000t" end="23644060000t" region="region_1" xml:id="subtitle603"><span style="style_2">Uczyłam cię lepiej.</span><br/><span style="style_2">Nie strzelamy z powodu podejrzenia.</span></p>
+<p begin="23645310000t" end="23669500000t" region="region_1" xml:id="subtitle604"><span style="style_2">I nie odbieramy niewinnych żyć.</span></p>
+<p begin="23681180000t" end="23702450000t" region="region_1" xml:id="subtitle605"><span style="style_2">Rozumiem twoją historię z Klingonami.</span></p>
+<p begin="23703290000t" end="23734150000t" region="region_1" xml:id="subtitle606"><span style="style_2">Wybrane przeze mnie działanie</span><br/><span style="style_2">nie bazuje na emocjach.</span></p>
+<p begin="23734980000t" end="23769600000t" region="region_1" xml:id="subtitle607"><span style="style_2">- Celujemy w kark, odcinamy głowę...</span><br/><span style="style_2">- Jesteś ranna.</span></p>
+<p begin="23770440000t" end="23797550000t" region="region_1" xml:id="subtitle608"><span style="style_2">Stracimy tysiące żyć przez brak działania.</span></p>
+<p begin="23798380000t" end="23824240000t" region="region_1" xml:id="subtitle609"><span style="style_2">Czyich żyć?</span><br/><span style="style_2">Ofiar twojej wyimaginowanej wojny?</span></p>
+<p begin="23825080000t" end="23837170000t" region="region_1" xml:id="subtitle610"><span style="style_2">Twoje życie.</span></p>
+<p begin="23856770000t" end="23865120000t" region="region_1" xml:id="subtitle611"><span style="style_2">Twoje.</span></p>
+<p begin="23900980000t" end="23917250000t" region="region_1" xml:id="subtitle612"><span style="style_2">Ustąp.</span></p>
+<p begin="23926010000t" end="23936020000t" region="region_1" xml:id="subtitle613"><span style="style_2">To rozkaz.</span></p>
+<p begin="23964380000t" end="23972720000t" region="region_1" xml:id="subtitle614"><span style="style_2">Masz rację.</span></p>
+<p begin="24009819167t" end="24023165834t" region="region_1" xml:id="subtitle615"><span style="style_2">Może nie jestem sobą.</span></p>
+<p begin="24078220834t" end="24089899167t" region="region_1" xml:id="subtitle616"><span style="style_2">Spokojnie, Michael.</span></p>
+<p begin="24149980000t" end="24159160000t" region="region_1" xml:id="subtitle617"><span style="style_2">Przykro mi.</span></p>
+<p begin="24218360834t" end="24235044167t" region="region_1" xml:id="subtitle618"><span style="style_2">Jest pan wolny, panie Saru.</span></p>
+<p begin="24238410000t" end="24250080000t" region="region_1" xml:id="subtitle619"><span style="style_2">Gdzie kapitan?</span></p>
+<p begin="24260510000t" end="24303470000t" region="region_1" xml:id="subtitle620"><span style="style_2">Dałam jej informacje od Wolkanów.</span><br/><span style="style_2">Przekazuje je admirałowi.</span></p>
+<p begin="24304300000t" end="24327240000t" region="region_1" xml:id="subtitle621"><span style="style_2">Broń. Para torped fotonowych,</span></p>
+<p begin="24328080000t" end="24362280000t" region="region_1" xml:id="subtitle622"><span style="style_2">obliczcie cel w szyi statku Klingonów.</span></p>
+<p begin="24363110000t" end="24383130000t" region="region_1" xml:id="subtitle623"><span style="style_2">Mamy zamiar strzelić do Klingonów?</span></p>
+<p begin="24383970000t" end="24416500000t" region="region_1" xml:id="subtitle624"><span style="style_2">Musimy być gotowi,</span><br/><span style="style_2">gdyby tak zadecydowała kapitan.</span></p>
+<p begin="24423590000t" end="24449030000t" region="region_1" xml:id="subtitle625"><span style="style_2">Działasz w zgodzie z rozkazami kapitan?</span></p>
+<p begin="24449870000t" end="24486990000t" region="region_1" xml:id="subtitle626"><span style="style_2">Jestem wyższa rangą.</span><br/><span style="style_2">Działamy w obliczu wysokiego ryzyka.</span></p>
+<p begin="24491550417t" end="24520746250t" region="region_1" xml:id="subtitle627"><span style="style_2">Zakwestionuj hierarchię jeszcze raz,</span><br/><span style="style_2">a cię usunę.</span></p>
+<p begin="24526190000t" end="24540370000t" region="region_1" xml:id="subtitle628"><span style="style_2">Pani komandor, to...</span></p>
+<p begin="24549970000t" end="24581660000t" region="region_1" xml:id="subtitle629"><span style="style_2">Masz przyspieszony oddech</span><br/><span style="style_2">i pot na skroniach.</span></p>
+<p begin="24582500000t" end="24615870000t" region="region_1" xml:id="subtitle630"><span style="style_2">Obawiam się, że sprzeniewierzasz się</span><br/><span style="style_2">życzeniom kapitan.</span></p>
+<p begin="24616700000t" end="24645900000t" region="region_1" xml:id="subtitle631"><span style="style_2">Wycelujcie fazery.</span><br/><span style="style_2">Zajmij stanowisko, komandorze.</span></p>
+<p begin="24650900000t" end="24683020000t" region="region_1" xml:id="subtitle632"><span style="style_2">- To bunt.</span><br/><span style="style_2">- Z drogi, Saru. Taktyka.</span></p>
+<p begin="24691780000t" end="24703450000t" region="region_1" xml:id="subtitle633"><span style="style_2">TORPEDA FOTONOWA</span></p>
+<p begin="24704290000t" end="24714300000t" region="region_1" xml:id="subtitle634"><span style="style_2">- Mamy cel.</span><br/><span style="style_2">- Ognia.</span></p>
+<p begin="24715107084t" end="24725534167t" region="region_1" xml:id="subtitle635"><span style="style_2">Wstrzymać rozkaz.</span></p>
+<p begin="24745580000t" end="24772690000t" region="region_1" xml:id="subtitle636"><span style="style_2">Proszę. Próbuję cię ocalić.</span></p>
+<p begin="24780200000t" end="24796460000t" region="region_1" xml:id="subtitle637"><span style="style_2">Próbuję ocalić was wszystkich.</span></p>
+<p begin="24831920000t" end="24841510000t" region="region_1" xml:id="subtitle638"><span style="style_2">Ustąp.</span></p>
+<p begin="24961210000t" end="24986240000t" region="region_1" xml:id="subtitle639"><span style="style_2">Pani kapitan, coś się zbliża.</span><br/><span style="style_2">Wykryto sygnatury warpu.</span></p>
+<p begin="24987070000t" end="24997500000t" region="region_1" xml:id="subtitle640"><span style="style_2">Czy to Gwiezdna Flota?</span></p>
+<p begin="25083830000t" end="25092180000t" region="region_1" xml:id="subtitle641"><span style="style_2">Nie.</span></p>
+<p begin="25098850000t" end="25113030000t" region="region_1" xml:id="subtitle642"><span style="style_2">To statki Klingonów.</span></p>
+<p begin="25689020000t" end="25709040000t" region="region_1" xml:id="subtitle643"><span style="style_2">Napisy: Inez Girek</span></p>
+</div>
+</body>
+</tt>
