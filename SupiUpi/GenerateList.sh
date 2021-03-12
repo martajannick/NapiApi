@@ -18,7 +18,7 @@ done
 
 echo "Enter number of txt file"
 read input
-echo "You select: ${file[$input]}"
+echo "Subtitles fors ${file[$input]}"
 cp ${file[$input]} ../OutputSubtitles/${file[$input]}
 sed -i 's/<[^>]\+>/ /g' ../OutputSubtitles/${file[$input]}
 
